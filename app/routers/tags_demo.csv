@@ -1,0 +1,101 @@
+id,label,related_ids
+1,Saludable,5,7,8,26
+2,Vegano,3,9,42,96
+3,Vegetariano,2,9,42,73
+4,Sin gluten,5,45,77,92
+5,Bajo en carbohidratos,4,7,27,78
+6,Alto en proteínas,28,65,95,97
+7,Bajo en calorías,1,5,47,92
+8,Rico en fibra,1,11,48,77
+9,Sin lácteos,2,3,42,73
+10,Sin azúcar,5,7,65,78
+11,Orgánico,8,12,13,48
+12,Local,11,13,56,57
+13,Sostenible,11,12,71,90
+14,Rápido,15,16,38,61
+15,Fácil de preparar,14,16,18,62
+16,Económico,14,15,18,61
+17,Gourmet,30,31,32,34
+18,Familiar,15,16,35,37
+19,Picante,20,32,33,36
+20,Dulce,19,21,39,10
+21,Salado,20,22,25,24
+22,Ácido,21,23,19,84
+23,Amargo,22,24,88,89
+24,Umami,21,23,30,33
+25,Bajo en sodio,21,66,67,79
+26,Alto en vitaminas,1,8,48,83
+27,Keto,5,6,47,95
+28,Paleo,6,11,48,76
+29,Mediterráneo,1,46,48,83
+30,Asiático,17,24,33,74
+31,Italiano,17,29,77,94
+32,Mexicano,17,19,90,94
+33,Indio,17,19,24,75
+34,Francés,17,29,60,94
+35,Desayuno,14,38,81,88
+36,Almuerzo,18,37,61,94
+37,Cena,18,36,60,94
+38,Snack,14,35,62,81
+39,Postre,20,10,39,62
+40,Bebida,80,82,86,88
+41,Sin nueces,42,43,44,92
+42,Sin huevos,2,3,9,73
+43,Sin mariscos,2,41,44,90
+44,Sin soja,41,43,45,92
+45,Sin trigo,4,44,76,77
+46,Alto en omega-3,29,48,83,95
+47,Bajo en grasas,5,7,27,67
+48,Rico en antioxidantes,1,8,11,26
+49,Probiótico,50,83,84,92
+50,Fermentado,49,74,75,84
+51,Crudo,11,28,76,84
+52,Cocido al vapor,1,15,29,94
+53,Asado,17,18,28,60
+54,Frito,19,32,54,94
+55,Horneado,15,31,55,77
+56,Verano,12,57,80,84
+57,Invierno,12,56,60,83
+58,Otoño,12,59,57,60
+59,Primavera,12,58,56,84
+60,Festivo,17,34,37,53
+61,Diario,14,16,36,37
+62,Infantil,15,38,39,62
+63,Para adultos,63,64,66,82
+64,Para deportistas,6,81,93,95
+65,Para diabéticos,5,10,65,78
+66,Para hipertensos,25,66,79,92
+67,Bajo en colesterol,25,47,67,29
+68,Alto en calcio,9,68,73,95
+69,Alto en hierro,6,69,83,95
+70,Vegano estricto,2,76,96,70
+71,Flexitariano,3,13,71,98
+72,Pescetariano,3,29,46,72
+73,Ovo-lacto vegetariano,3,9,42,73
+74,Macrobiótico,30,50,74,76
+75,Ayurveda,33,50,75,83
+76,Sin procesados,11,28,45,51
+77,Integral,4,8,45,77
+78,Bajo índice glucémico,5,10,65,78
+79,Alto en potasio,25,66,79,83
+80,Hidratante,40,56,80,84
+81,Energético,35,38,64,81
+82,Relajante,40,63,82,88
+83,Inmunoestimulante,26,46,57,69
+84,Detox,22,49,51,56
+85,Antiinflamatorio,29,48,75,83
+86,Sin alcohol,40,86,88,92
+87,Con alcohol,40,60,87,94
+88,Sin cafeína,35,40,82,88
+89,Con cafeína,35,81,89,94
+90,Halal,13,32,43,90
+91,Kosher,13,90,91,98
+92,Bajo en FODMAP,4,7,41,49
+93,Alto en carbohidratos,64,77,93,98
+94,Equilibrado,29,31,36,37
+95,Proteico,6,27,64,68
+96,Vegetal,2,70,96,11
+97,Carnívoro,6,97,28,95
+98,Omnívoro,71,91,93,98
+99,Bajo en purinas,66,92,99,25
+100,Rico en colágeno,6,95,100,69

@@ -1,0 +1,1155 @@
+[
+  {
+    "name": "Ensalada Mediterránea",
+    "tags": [1, 2, 3, 4, 7, 9, 14, 15, 16, 29, 41, 42, 43, 44, 45, 51, 56, 61, 94, 96],
+    "ingredients_text": [
+      "2 tomates",
+      "1 cebolla",
+      "1 pimiento rojo",
+      "100g de espinaca",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de vinagre de manzana",
+      "Sal al gusto",
+      "Pimienta negra al gusto"
+    ],
+    "ingredients_ids": [
+      {"id": 15, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 20, "quantity": 0.1},
+      {"id": 21, "quantity": 0.1},
+      {"id": 7, "quantity": 0.03},
+      {"id": 9, "quantity": 0.005},
+      {"id": 10, "quantity": 0.005},
+      {"id": 11, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Lavar y cortar los tomates, cebolla y pimiento en trozos.",
+      "Mezclar con la espinaca en un bol.",
+      "Aliñar con aceite de oliva, vinagre, sal y pimienta.",
+      "Remover bien y servir frío."
+    ]
+  },
+  {
+    "name": "Sopa de Lentejas",
+    "tags": [1, 2, 3, 6, 8, 14, 15, 16, 25, 37, 57, 61, 69, 76, 79, 83, 85, 94, 96],
+    "ingredients_text": [
+      "200g de lentejas",
+      "2 zanahorias",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "1 litro de caldo de verduras",
+      "1 cucharadita de comino molido",
+      "Sal al gusto",
+      "Perejil fresco picado"
+    ],
+    "ingredients_ids": [
+      {"id": 35, "quantity": 0.2},
+      {"id": 19, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 17, "quantity": 2},
+      {"id": 93, "quantity": 1},
+      {"id": 14, "quantity": 0.005},
+      {"id": 10, "quantity": 0.005},
+      {"id": 77, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Remojar las lentejas si es necesario.",
+      "Picar la cebolla, ajo y zanahorias.",
+      "Sofreír en una olla con un poco de aceite si disponible, o directamente agregar al caldo.",
+      "Añadir lentejas, comino y sal, cocer 30 minutos.",
+      "Servir con perejil por encima."
+    ]
+  },
+  {
+    "name": "Pollo Asado con Verduras",
+    "tags": [1, 5, 6, 7, 15, 16, 18, 28, 36, 37, 53, 61, 64, 67, 71, 94, 95, 97, 98],
+    "ingredients_text": [
+      "200g de pollo congelado",
+      "2 patatas",
+      "2 zanahorias",
+      "1 brócoli",
+      "Aceite de oliva",
+      "Sal y pimienta",
+      "Orégano seco"
+    ],
+    "ingredients_ids": [
+      {"id": 113, "quantity": 0.2},
+      {"id": 18, "quantity": 0.2},
+      {"id": 19, "quantity": 0.2},
+      {"id": 22, "quantity": 1},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005},
+      {"id": 11, "quantity": 0.005},
+      {"id": 13, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Precalentar horno a 200°C.",
+      "Cortar patatas, zanahorias y brócoli.",
+      "Colocar pollo y verduras en una bandeja.",
+      "Aliñar con aceite, sal, pimienta y orégano.",
+      "Hornear 40 minutos hasta dorado."
+    ]
+  },
+  {
+    "name": "Batido de Frutas",
+    "tags": [1, 2, 3, 7, 9, 10, 14, 15, 16, 20, 35, 38, 40, 48, 51, 56, 78, 80, 81, 84, 86, 88, 94, 96],
+    "ingredients_text": [
+      "1 plátano",
+      "5 fresas",
+      "1 naranja",
+      "1 kiwi",
+      "200ml de leche de almendras",
+      "1 cucharadita de miel (opcional)"
+    ],
+    "ingredients_ids": [
+      {"id": 26, "quantity": 1},
+      {"id": 29, "quantity": 0.1},
+      {"id": 27, "quantity": 1},
+      {"id": 34, "quantity": 1},
+      {"id": 120, "quantity": 0.2},
+      {"id": 66, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Pelar y cortar las frutas.",
+      "Colocar en una batidora.",
+      "Añadir leche de almendras y miel si se desea.",
+      "Batir hasta suave.",
+      "Servir inmediatamente."
+    ]
+  },
+  {
+    "name": "Pasta con Salsa de Tomate",
+    "tags": [3, 4, 9, 14, 15, 16, 31, 36, 37, 61, 73, 76, 77, 93, 94],
+    "ingredients_text": [
+      "200g de espaguetis",
+      "4 tomates",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "Albahaca fresca",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "ingredients_ids": [
+      {"id": 101, "quantity": 0.2},
+      {"id": 15, "quantity": 0.4},
+      {"id": 16, "quantity": 0.1},
+      {"id": 17, "quantity": 2},
+      {"id": 76, "quantity": 0.01},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cocinar la pasta en agua con sal según paquete.",
+      "Picar cebolla y ajo, sofreír en aceite.",
+      "Añadir tomates picados y cocer 15 minutos.",
+      "Mezclar con pasta y albahaca.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Ensalada de Quinoa",
+    "tags": [1, 2, 3, 4, 6, 8, 14, 15, 16, 26, 36, 41, 42, 43, 44, 45, 48, 51, 56, 78, 94, 96],
+    "ingredients_text": [
+      "100g de quinoa",
+      "2 tomates",
+      "1 pepino (usando calabacín como aproximado)",
+      "1 pimiento rojo",
+      "Jugo de 1 limón",
+      "2 cucharadas de aceite de oliva",
+      "Sal al gusto",
+      "Perejil picado"
+    ],
+    "ingredients_ids": [
+      {"id": 53, "quantity": 0.1},
+      {"id": 15, "quantity": 0.2},
+      {"id": 23, "quantity": 0.1},
+      {"id": 20, "quantity": 0.1},
+      {"id": 33, "quantity": 1},
+      {"id": 7, "quantity": 0.03},
+      {"id": 10, "quantity": 0.005},
+      {"id": 77, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Cocinar la quinoa según instrucciones.",
+      "Cortar tomates, calabacín y pimiento.",
+      "Mezclar con quinoa cocida.",
+      "Aliñar con limón, aceite, sal y perejil.",
+      "Servir frío."
+    ]
+  },
+  {
+    "name": "Salmón al Horno",
+    "tags": [1, 4, 6, 46, 47, 15, 28, 29, 37, 53, 55, 61, 64, 67, 72, 83, 85, 90, 94, 95],
+    "ingredients_text": [
+      "200g de salmón",
+      "1 limón",
+      "2 dientes de ajo",
+      "Romero fresco",
+      "Aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "ingredients_ids": [
+      {"id": 46, "quantity": 0.2},
+      {"id": 33, "quantity": 1},
+      {"id": 17, "quantity": 2},
+      {"id": 74, "quantity": 0.01},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005},
+      {"id": 11, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Precalentar horno a 180°C.",
+      "Colocar salmón en bandeja con ajo picado y romero.",
+      "Rociar con aceite, sal, pimienta y jugo de limón.",
+      "Hornear 20 minutos.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Curry de Garbanzos",
+    "tags": [1, 2, 3, 6, 8, 19, 33, 37, 52, 57, 61, 69, 75, 76, 83, 85, 94, 96],
+    "ingredients_text": [
+      "200g de garbanzos",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "1 cucharadita de comino",
+      "1 cucharadita de cúrcuma",
+      "1 cucharadita de chile en polvo",
+      "200ml de caldo de verduras",
+      "Espinaca al gusto"
+    ],
+    "ingredients_ids": [
+      {"id": 36, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 17, "quantity": 2},
+      {"id": 14, "quantity": 0.005},
+      {"id": 72, "quantity": 0.005},
+      {"id": 136, "quantity": 0.005},
+      {"id": 93, "quantity": 0.2},
+      {"id": 21, "quantity": 0.1}
+    ],
+    "recipe": [
+      "Sofreír cebolla y ajo.",
+      "Añadir especias y cocer 2 minutos.",
+      "Incorporar garbanzos y caldo, cocer 15 minutos.",
+      "Añadir espinaca al final.",
+      "Servir con arroz si disponible."
+    ]
+  },
+  {
+    "name": "Batido Verde",
+    "tags": [1, 2, 3, 7, 9, 10, 14, 15, 26, 35, 38, 40, 48, 51, 59, 78, 80, 81, 84, 86, 88, 94, 96],
+    "ingredients_text": [
+      "1 manzana",
+      "1 kiwi",
+      "Un puñado de espinaca",
+      "Jugo de 1 limón",
+      "200ml de agua mineral",
+      "Menta fresca"
+    ],
+    "ingredients_ids": [
+      {"id": 25, "quantity": 1},
+      {"id": 34, "quantity": 1},
+      {"id": 21, "quantity": 0.05},
+      {"id": 33, "quantity": 1},
+      {"id": 123, "quantity": 0.2},
+      {"id": 79, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Lavar y cortar frutas y espinaca.",
+      "Colocar en batidora con jugo de limón y agua.",
+      "Añadir menta.",
+      "Batir hasta suave.",
+      "Servir fresco."
+    ]
+  },
+  {
+    "name": "Tortillas con Verduras",
+    "tags": [3, 4, 14, 15, 16, 18, 32, 36, 41, 42, 43, 44, 54, 61, 73, 90, 93, 94],
+    "ingredients_text": [
+      "2 tortillas de maíz",
+      "1 pimiento rojo",
+      "1 cebolla",
+      "1 calabacín",
+      "Salsa de tomate frito",
+      "Cilantro picado"
+    ],
+    "ingredients_ids": [
+      {"id": 104, "quantity": 2},
+      {"id": 20, "quantity": 0.1},
+      {"id": 16, "quantity": 0.1},
+      {"id": 23, "quantity": 0.1},
+      {"id": 94, "quantity": 0.1},
+      {"id": 78, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Saltear verduras cortadas.",
+      "Calentar tortillas.",
+      "Rellenar con verduras y salsa.",
+      "Añadir cilantro.",
+      "Doblar y servir."
+    ]
+  },
+  {
+    "name": "Arroz con Pollo",
+    "tags": [6, 15, 16, 18, 36, 37, 53, 61, 71, 93, 94, 95, 97, 98],
+    "ingredients_text": [
+      "100g de arroz basmati",
+      "200g de pollo congelado",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "1 zanahoria",
+      "Caldo de verduras",
+      "Paprika"
+    ],
+    "ingredients_ids": [
+      {"id": 100, "quantity": 0.1},
+      {"id": 113, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 17, "quantity": 2},
+      {"id": 19, "quantity": 0.1},
+      {"id": 93, "quantity": 0.3},
+      {"id": 131, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Sofreír cebolla y ajo.",
+      "Añadir pollo y dorar.",
+      "Incorporar zanahoria y arroz.",
+      "Cubrir con caldo y paprika, cocer 20 minutos.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Ensalada de Frutas",
+    "tags": [1, 2, 3, 7, 9, 10, 14, 15, 20, 26, 38, 39, 48, 51, 56, 78, 80, 84, 86, 88, 94, 96],
+    "ingredients_text": [
+      "1 manzana",
+      "1 pera",
+      "5 fresas",
+      "1 kiwi",
+      "Jugo de 1 naranja",
+      "Miel al gusto"
+    ],
+    "ingredients_ids": [
+      {"id": 25, "quantity": 1},
+      {"id": 28, "quantity": 1},
+      {"id": 29, "quantity": 0.1},
+      {"id": 34, "quantity": 1},
+      {"id": 27, "quantity": 1},
+      {"id": 66, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Cortar todas las frutas en trozos.",
+      "Mezclar en un bol.",
+      "Añadir jugo de naranja y miel.",
+      "Remover gently.",
+      "Servir como postre."
+    ]
+  },
+  {
+    "name": "Sopa de Verduras",
+    "tags": [1, 2, 3, 7, 8, 14, 15, 16, 25, 37, 52, 57, 61, 66, 79, 83, 84, 92, 94, 96],
+    "ingredients_text": [
+      "2 patatas",
+      "2 zanahorias",
+      "1 brócoli",
+      "1 cebolla",
+      "1 litro de caldo de verduras",
+      "Sal baja en sodio"
+    ],
+    "ingredients_ids": [
+      {"id": 18, "quantity": 0.2},
+      {"id": 19, "quantity": 0.2},
+      {"id": 22, "quantity": 1},
+      {"id": 16, "quantity": 0.1},
+      {"id": 93, "quantity": 1},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cortar verduras en trozos.",
+      "Hervir en caldo 20 minutos.",
+      "Sazonar con sal.",
+      "Triturar si se desea cremosa.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Omelette de Verduras",
+    "tags": [3, 6, 14, 15, 18, 35, 36, 42, 54, 61, 73, 81, 94, 95],
+    "ingredients_text": [
+      "2 huevos",
+      "1 tomate",
+      "1 pimiento rojo",
+      "Un puñado de espinaca",
+      "Aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "ingredients_ids": [
+      {"id": 6, "quantity": 2},
+      {"id": 15, "quantity": 0.1},
+      {"id": 20, "quantity": 0.1},
+      {"id": 21, "quantity": 0.05},
+      {"id": 7, "quantity": 0.01},
+      {"id": 10, "quantity": 0.005},
+      {"id": 11, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Batir huevos con sal y pimienta.",
+      "Saltear verduras en aceite.",
+      "Verter huevos sobre verduras.",
+      "Cocinar hasta cuajado.",
+      "Doblar y servir."
+    ]
+  },
+  {
+    "name": "Estofado de Carne",
+    "tags": [6, 15, 16, 18, 37, 53, 57, 61, 64, 69, 94, 95, 97, 98, 100],
+    "ingredients_text": [
+      "200g de carne de res",
+      "2 patatas",
+      "2 zanahorias",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "Caldo de verduras",
+      "Laurel"
+    ],
+    "ingredients_ids": [
+      {"id": 40, "quantity": 0.2},
+      {"id": 18, "quantity": 0.2},
+      {"id": 19, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 17, "quantity": 2},
+      {"id": 93, "quantity": 0.5},
+      {"id": 73, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Dorar carne en olla.",
+      "Añadir verduras picadas y ajo.",
+      "Cubrir con caldo y laurel.",
+      "Cocinar a fuego lento 1 hora.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Hummus Casero",
+    "tags": [1, 2, 3, 4, 6, 8, 9, 14, 15, 16, 25, 29, 38, 41, 42, 43, 44, 45, 76, 78, 85, 90, 94, 96],
+    "ingredients_text": [
+      "200g de garbanzos",
+      "2 dientes de ajo",
+      "Jugo de 1 limón",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de comino molido",
+      "Sal al gusto"
+    ],
+    "ingredients_ids": [
+      {"id": 36, "quantity": 0.2},
+      {"id": 17, "quantity": 2},
+      {"id": 33, "quantity": 1},
+      {"id": 7, "quantity": 0.03},
+      {"id": 14, "quantity": 0.005},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Escurrir y enjuagar garbanzos.",
+      "Triturar con ajo, limón, aceite y comino.",
+      "Añadir sal y mezclar hasta cremoso.",
+      "Servir con verduras crudas."
+    ]
+  },
+  {
+    "name": "Pavo con Hierbas",
+    "tags": [1, 5, 6, 7, 15, 16, 28, 29, 37, 53, 55, 61, 64, 67, 71, 90, 94, 95, 97],
+    "ingredients_text": [
+      "200g de pavo (muslo)",
+      "Romero fresco",
+      "Tomillo fresco",
+      "2 dientes de ajo",
+      "Aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "ingredients_ids": [
+      {"id": 42, "quantity": 0.2},
+      {"id": 74, "quantity": 0.01},
+      {"id": 75, "quantity": 0.01},
+      {"id": 17, "quantity": 2},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005},
+      {"id": 11, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Precalentar horno a 180°C.",
+      "Frotar pavo con hierbas, ajo, aceite, sal y pimienta.",
+      "Hornear 30 minutos.",
+      "Dejar reposar y servir."
+    ]
+  },
+  {
+    "name": "Ensalada de Remolacha",
+    "tags": [1, 2, 3, 7, 8, 9, 14, 15, 16, 22, 26, 36, 41, 42, 43, 44, 45, 48, 51, 56, 79, 84, 92, 94, 96],
+    "ingredients_text": [
+      "2 remolachas",
+      "Un puñado de rúcula",
+      "1 cebolla",
+      "Vinagre de manzana",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "ingredients_ids": [
+      {"id": 58, "quantity": 0.2},
+      {"id": 149, "quantity": 0.05},
+      {"id": 16, "quantity": 0.1},
+      {"id": 9, "quantity": 0.02},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cocinar remolachas hasta tiernas.",
+      "Cortar en trozos y mezclar con rúcula y cebolla.",
+      "Aliñar con vinagre, aceite y sal.",
+      "Servir fresco."
+    ]
+  },
+  {
+    "name": "Couscous con Verduras",
+    "tags": [1, 2, 3, 4, 8, 14, 15, 16, 29, 36, 52, 61, 76, 77, 93, 94, 96],
+    "ingredients_text": [
+      "100g de couscous",
+      "1 calabacín",
+      "1 pimiento rojo",
+      "1 zanahoria",
+      "Caldo de verduras",
+      "Cúrcuma"
+    ],
+    "ingredients_ids": [
+      {"id": 52, "quantity": 0.1},
+      {"id": 23, "quantity": 0.1},
+      {"id": 20, "quantity": 0.1},
+      {"id": 19, "quantity": 0.1},
+      {"id": 93, "quantity": 0.2},
+      {"id": 72, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Hidratar couscous con caldo caliente.",
+      "Saltear verduras cortadas.",
+      "Mezclar con couscous y cúrcuma.",
+      "Servir tibio."
+    ]
+  },
+  {
+    "name": "Yogur con Frutas",
+    "tags": [1, 3, 7, 9, 10, 14, 15, 20, 35, 38, 39, 49, 62, 68, 73, 78, 81, 86, 88, 94],
+    "ingredients_text": [
+      "200ml de yogur natural",
+      "1 plátano",
+      "5 fresas",
+      "1 cucharadita de miel",
+      "Semillas de chía"
+    ],
+    "ingredients_ids": [
+      {"id": 4, "quantity": 0.2},
+      {"id": 26, "quantity": 1},
+      {"id": 29, "quantity": 0.1},
+      {"id": 66, "quantity": 0.005},
+      {"id": 86, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Cortar frutas en trozos.",
+      "Mezclar con yogur.",
+      "Añadir miel y semillas.",
+      "Servir como desayuno."
+    ]
+  },
+  {
+    "name": "Calabacines Rellenos",
+    "tags": [1, 2, 3, 5, 7, 15, 16, 29, 37, 55, 61, 76, 94, 96],
+    "ingredients_text": [
+      "2 calabacines",
+      "100g de quinoa",
+      "1 tomate",
+      "1 cebolla",
+      "Orégano seco",
+      "Aceite de oliva"
+    ],
+    "ingredients_ids": [
+      {"id": 23, "quantity": 0.2},
+      {"id": 53, "quantity": 0.1},
+      {"id": 15, "quantity": 0.1},
+      {"id": 16, "quantity": 0.1},
+      {"id": 13, "quantity": 0.005},
+      {"id": 7, "quantity": 0.02}
+    ],
+    "recipe": [
+      "Cocinar quinoa.",
+      "Ahuecar calabacines.",
+      "Rellenar con mezcla de quinoa, tomate, cebolla y orégano.",
+      "Hornear 25 minutos.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Té de Hierbas",
+    "tags": [1, 2, 3, 9, 10, 14, 15, 40, 82, 84, 86, 88, 94, 96],
+    "ingredients_text": [
+      "1 cucharadita de té verde",
+      "Menta fresca",
+      "Jugo de 1 limón",
+      "200ml de agua mineral"
+    ],
+    "ingredients_ids": [
+      {"id": 70, "quantity": 0.005},
+      {"id": 79, "quantity": 0.01},
+      {"id": 33, "quantity": 1},
+      {"id": 123, "quantity": 0.2}
+    ],
+    "recipe": [
+      "Hervir agua.",
+      "Añadir té y menta, infusionar 5 minutos.",
+      "Colar y añadir limón.",
+      "Servir caliente o frío."
+    ]
+  },
+  {
+    "name": "Frijoles con Especias",
+    "tags": [1, 2, 3, 6, 8, 19, 33, 37, 61, 69, 75, 76, 83, 85, 90, 94, 96],
+    "ingredients_text": [
+      "200g de frijoles negros",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "1 cucharadita de comino",
+      "Chile en polvo al gusto",
+      "Cilantro picado"
+    ],
+    "ingredients_ids": [
+      {"id": 37, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 17, "quantity": 2},
+      {"id": 14, "quantity": 0.005},
+      {"id": 136, "quantity": 0.005},
+      {"id": 78, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Cocinar frijoles hasta tiernos.",
+      "Sofreír cebolla y ajo.",
+      "Añadir especias y frijoles.",
+      "Cocinar 10 minutos, servir con cilantro."
+    ]
+  },
+  {
+    "name": "Avena con Frutas",
+    "tags": [1, 2, 3, 8, 9, 10, 14, 15, 20, 35, 77, 78, 81, 93, 94, 96],
+    "ingredients_text": [
+      "50g de avena en hojuelas",
+      "1 manzana",
+      "1 plátano",
+      "200ml de leche de almendras",
+      "Canela en polvo"
+    ],
+    "ingredients_ids": [
+      {"id": 54, "quantity": 0.05},
+      {"id": 25, "quantity": 1},
+      {"id": 26, "quantity": 1},
+      {"id": 120, "quantity": 0.2},
+      {"id": 12, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cocinar avena con leche.",
+      "Cortar frutas.",
+      "Mezclar y añadir canela.",
+      "Servir tibio."
+    ]
+  },
+  {
+    "name": "Berenjena Asada",
+    "tags": [1, 2, 3, 7, 14, 15, 16, 29, 37, 53, 61, 76, 85, 94, 96],
+    "ingredients_text": [
+      "2 berenjenas",
+      "2 tomates",
+      "Albahaca fresca",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "ingredients_ids": [
+      {"id": 24, "quantity": 0.2},
+      {"id": 15, "quantity": 0.2},
+      {"id": 76, "quantity": 0.01},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cortar berenjenas en rodajas.",
+      "Asar con tomates.",
+      "Aliñar con aceite, sal y albahaca.",
+      "Servir como guarnición."
+    ]
+  },
+  {
+    "name": "Atún con Ensalada",
+    "tags": [1, 4, 6, 7, 14, 15, 29, 36, 43, 46, 51, 61, 64, 67, 72, 83, 94, 95],
+    "ingredients_text": [
+      "1 lata de atún",
+      "Un puñado de canónigos",
+      "1 tomate",
+      "Vinagre de manzana",
+      "Aceite de oliva"
+    ],
+    "ingredients_ids": [
+      {"id": 47, "quantity": 1},
+      {"id": 150, "quantity": 0.05},
+      {"id": 15, "quantity": 0.1},
+      {"id": 9, "quantity": 0.02},
+      {"id": 7, "quantity": 0.02}
+    ],
+    "recipe": [
+      "Escurrir atún.",
+      "Mezclar con canónigos y tomate cortado.",
+      "Aliñar con vinagre y aceite.",
+      "Servir frío."
+    ]
+  },
+  {
+    "name": "Champiñones Salteados",
+    "tags": [1, 2, 3, 5, 7, 14, 15, 16, 24, 29, 38, 41, 42, 43, 44, 45, 54, 61, 76, 94, 96],
+    "ingredients_text": [
+      "200g de champiñones",
+      "2 dientes de ajo",
+      "Perejil picado",
+      "Aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "ingredients_ids": [
+      {"id": 56, "quantity": 0.2},
+      {"id": 17, "quantity": 2},
+      {"id": 77, "quantity": 0.01},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005},
+      {"id": 11, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Limpiar y cortar champiñones.",
+      "Saltear con ajo en aceite.",
+      "Añadir sal, pimienta y perejil.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Manzana al Horno",
+    "tags": [1, 2, 3, 7, 10, 14, 15, 20, 39, 55, 58, 78, 84, 94, 96],
+    "ingredients_text": [
+      "2 manzanas",
+      "Canela en polvo",
+      "1 cucharadita de miel"
+    ],
+    "ingredients_ids": [
+      {"id": 25, "quantity": 2},
+      {"id": 12, "quantity": 0.005},
+      {"id": 66, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Precalentar horno a 180°C.",
+      "Ahuecar manzanas ligeramente.",
+      "Espolvorear canela y miel.",
+      "Hornear 20 minutos.",
+      "Servir tibio."
+    ]
+  },
+  {
+    "name": "Garbanzos con Espinacas",
+    "tags": [1, 2, 3, 6, 8, 14, 15, 16, 29, 37, 61, 69, 76, 83, 85, 90, 94, 96],
+    "ingredients_text": [
+      "200g de garbanzos",
+      "200g de espinaca",
+      "1 cebolla",
+      "Paprika",
+      "Comino molido"
+    ],
+    "ingredients_ids": [
+      {"id": 36, "quantity": 0.2},
+      {"id": 21, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 131, "quantity": 0.005},
+      {"id": 14, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Sofreír cebolla.",
+      "Añadir garbanzos y especias.",
+      "Incorporar espinaca y cocer 5 minutos.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Jugo de Naranja Fresco",
+    "tags": [1, 2, 3, 7, 10, 14, 15, 22, 26, 35, 40, 48, 51, 56, 80, 81, 84, 86, 88, 94, 96],
+    "ingredients_text": [
+      "3 naranjas",
+      "Jengibre fresco",
+      "Menta"
+    ],
+    "ingredients_ids": [
+      {"id": 27, "quantity": 3},
+      {"id": 71, "quantity": 0.01},
+      {"id": 79, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Exprimir naranjas.",
+      "Rallar jengibre y añadir.",
+      "Mezclar con menta.",
+      "Servir frío."
+    ]
+  },
+  {
+    "name": "Coliflor al Vapor",
+    "tags": [1, 2, 3, 7, 8, 14, 15, 16, 26, 52, 61, 76, 79, 83, 84, 92, 94, 96],
+    "ingredients_text": [
+      "1 coliflor",
+      "Jugo de 1 limón",
+      "Sal",
+      "Pimienta negra"
+    ],
+    "ingredients_ids": [
+      {"id": 60, "quantity": 1},
+      {"id": 33, "quantity": 1},
+      {"id": 10, "quantity": 0.005},
+      {"id": 11, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cortar coliflor en floretes.",
+      "Cocinar al vapor 10 minutos.",
+      "Aliñar con limón, sal y pimienta.",
+      "Servir como lado."
+    ]
+  },
+  {
+    "name": "Cerdo con Verduras",
+    "tags": [6, 15, 16, 18, 36, 37, 53, 61, 64, 71, 94, 95, 97, 98],
+    "ingredients_text": [
+      "200g de cerdo (chuletas)",
+      "1 berenjena",
+      "1 calabacín",
+      "Aceite de oliva",
+      "Romero"
+    ],
+    "ingredients_ids": [
+      {"id": 41, "quantity": 0.2},
+      {"id": 24, "quantity": 0.1},
+      {"id": 23, "quantity": 0.1},
+      {"id": 7, "quantity": 0.02},
+      {"id": 74, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Dorar cerdo.",
+      "Añadir verduras cortadas y romero.",
+      "Cocinar 20 minutos.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Sandía Fresca",
+    "tags": [1, 2, 3, 7, 10, 14, 15, 20, 38, 39, 51, 56, 80, 84, 94, 96],
+    "ingredients_text": [
+      "1 rebanada de sandía",
+      "Menta fresca",
+      "Jugo de limón"
+    ],
+    "ingredients_ids": [
+      {"id": 32, "quantity": 1},
+      {"id": 79, "quantity": 0.01},
+      {"id": 33, "quantity": 0.5}
+    ],
+    "recipe": [
+      "Cortar sandía en cubos.",
+      "Mezclar con menta y limón.",
+      "Servir frío."
+    ]
+  },
+  {
+    "name": "Habas con Tomate",
+    "tags": [1, 2, 3, 6, 8, 14, 15, 16, 29, 37, 61, 69, 76, 94, 96],
+    "ingredients_text": [
+      "200g de habas",
+      "2 tomates",
+      "1 cebolla",
+      "Ajo",
+      "Perejil"
+    ],
+    "ingredients_ids": [
+      {"id": 39, "quantity": 0.2},
+      {"id": 15, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 17, "quantity": 1},
+      {"id": 77, "quantity": 0.01}
+    ],
+    "recipe": [
+      "Cocinar habas.",
+      "Sofreír cebolla y ajo, añadir tomates.",
+      "Mezclar con habas y perejil.",
+      "Servir tibio."
+    ]
+  },
+  {
+    "name": "Pan con Tomate",
+    "tags": [3, 4, 14, 15, 16, 29, 31, 35, 38, 61, 73, 77, 93, 94],
+    "ingredients_text": [
+      "2 rebanadas de pan integral",
+      "1 tomate",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "ingredients_ids": [
+      {"id": 105, "quantity": 2},
+      {"id": 15, "quantity": 0.1},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Tostar pan.",
+      "Frotar con tomate.",
+      "Rociar aceite y sal.",
+      "Servir como snack."
+    ]
+  },
+  {
+    "name": "Ensalada de Verduras Mixtas",
+    "tags": [1, 2, 3, 4, 5, 7, 8, 9],
+    "ingredients_text": [
+      "2 tomates",
+      "1 cebolla",
+      "1 zanahoria",
+      "100g de espinaca",
+      "1 limón",
+      "2 cucharadas de aceite de oliva",
+      "Sal al gusto"
+    ],
+    "ingredients_ids": [
+      {"id": 15, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 19, "quantity": 0.1},
+      {"id": 21, "quantity": 0.1},
+      {"id": 33, "quantity": 1},
+      {"id": 7, "quantity": 0.03},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Lavar y cortar las verduras en trozos.",
+      "Mezclar en un bol.",
+      "Exprimir el limón y añadir con aceite y sal.",
+      "Remover y servir."
+    ]
+  },
+  {
+    "name": "Sopa de Lentejas Simple",
+    "tags": [1, 2, 3, 4, 6, 8],
+    "ingredients_text": [
+      "200g de lentejas",
+      "2 zanahorias",
+      "1 cebolla",
+      "2 dientes de ajo",
+      "1 litro de caldo de verduras",
+      "Comino molido al gusto"
+    ],
+    "ingredients_ids": [
+      {"id": 35, "quantity": 0.2},
+      {"id": 19, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 17, "quantity": 2},
+      {"id": 93, "quantity": 1},
+      {"id": 14, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Picar verduras.",
+      "Sofreír cebolla y ajo.",
+      "Añadir lentejas, zanahorias, caldo y comino.",
+      "Cocer 30 minutos."
+    ]
+  },
+  {
+    "name": "Pechuga de Pollo a la Plancha",
+    "tags": [1, 3, 4, 5, 6, 7, 9],
+    "ingredients_text": [
+      "200g de pollo congelado",
+      "1 limón",
+      "Orégano seco",
+      "Aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "ingredients_ids": [
+      {"id": 113, "quantity": 0.2},
+      {"id": 33, "quantity": 1},
+      {"id": 13, "quantity": 0.005},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005},
+      {"id": 11, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Descongelar pollo.",
+      "Marinar con limón, orégano, sal y pimienta.",
+      "Cocinar en plancha con aceite.",
+      "Servir caliente."
+    ]
+  },
+  {
+    "name": "Batido de Frutas Tropicales",
+    "tags": [1, 2, 3, 4, 7, 8, 9, 10],
+    "ingredients_text": [
+      "1 mango",
+      "1 piña (porción)",
+      "1 kiwi",
+      "200ml de jugo de naranja"
+    ],
+    "ingredients_ids": [
+      {"id": 61, "quantity": 0.1},
+      {"id": 63, "quantity": 0.2},
+      {"id": 34, "quantity": 1},
+      {"id": 122, "quantity": 0.2}
+    ],
+    "recipe": [
+      "Pelar y cortar frutas.",
+      "Batir con jugo.",
+      "Servir frío."
+    ]
+  },
+  {
+    "name": "Arroz con Verduras",
+    "tags": [1, 2, 3, 4, 8],
+    "ingredients_text": [
+      "100g de arroz blanco",
+      "1 pimiento rojo",
+      "1 calabacín",
+      "1 cebolla",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "ingredients_ids": [
+      {"id": 99, "quantity": 0.1},
+      {"id": 20, "quantity": 0.1},
+      {"id": 23, "quantity": 0.1},
+      {"id": 16, "quantity": 0.1},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cocinar arroz.",
+      "Saltear verduras en aceite.",
+      "Mezclar y sazonar.",
+      "Servir."
+    ]
+  },
+  {
+    "name": "Ensalada de Garbanzos",
+    "tags": [1, 2, 3, 4, 6, 8, 9],
+    "ingredients_text": [
+      "200g de garbanzos",
+      "2 tomates",
+      "1 cebolla",
+      "Vinagre de manzana",
+      "Aceite de oliva"
+    ],
+    "ingredients_ids": [
+      {"id": 36, "quantity": 0.2},
+      {"id": 15, "quantity": 0.2},
+      {"id": 16, "quantity": 0.1},
+      {"id": 9, "quantity": 0.02},
+      {"id": 7, "quantity": 0.02}
+    ],
+    "recipe": [
+      "Escurrir garbanzos.",
+      "Cortar verduras.",
+      "Mezclar con vinagre y aceite.",
+      "Servir frío."
+    ]
+  },
+  {
+    "name": "Salmón con Limón",
+    "tags": [1, 3, 4, 5, 6, 7, 9],
+    "ingredients_text": [
+      "200g de salmón",
+      "1 limón",
+      "Romero",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "ingredients_ids": [
+      {"id": 46, "quantity": 0.2},
+      {"id": 33, "quantity": 1},
+      {"id": 74, "quantity": 0.005},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Colocar salmón en bandeja.",
+      "Añadir limón, romero, aceite y sal.",
+      "Hornear 20 minutos.",
+      "Servir."
+    ]
+  },
+  {
+    "name": "Quinoa con Brócoli",
+    "tags": [1, 2, 3, 4, 6, 8, 9],
+    "ingredients_text": [
+      "100g de quinoa",
+      "1 brócoli",
+      "1 ajo",
+      "Aceite de oliva",
+      "Sal"
+    ],
+    "ingredients_ids": [
+      {"id": 53, "quantity": 0.1},
+      {"id": 22, "quantity": 1},
+      {"id": 17, "quantity": 1},
+      {"id": 7, "quantity": 0.02},
+      {"id": 10, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cocinar quinoa.",
+      "Cocinar brócoli al vapor.",
+      "Mezclar con ajo picado, aceite y sal.",
+      "Servir."
+    ]
+  },
+  {
+    "name": "Yogur con Miel y Frutas",
+    "tags": [1, 3, 4, 7, 10],
+    "ingredients_text": [
+      "200ml de yogur natural",
+      "1 manzana",
+      "1 cucharadita de miel"
+    ],
+    "ingredients_ids": [
+      {"id": 4, "quantity": 0.2},
+      {"id": 25, "quantity": 1},
+      {"id": 66, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cortar manzana.",
+      "Mezclar con yogur y miel.",
+      "Servir como postre."
+    ]
+  },
+  {
+    "name": "Estofado de Verduras",
+    "tags": [1, 2, 3, 4, 7, 8, 9],
+    "ingredients_text": [
+      "2 patatas",
+      "2 zanahorias",
+      "1 coliflor",
+      "Caldo de verduras",
+      "Laurel"
+    ],
+    "ingredients_ids": [
+      {"id": 18, "quantity": 0.2},
+      {"id": 19, "quantity": 0.2},
+      {"id": 60, "quantity": 1},
+      {"id": 93, "quantity": 0.5},
+      {"id": 73, "quantity": 0.005}
+    ],
+    "recipe": [
+      "Cortar verduras.",
+      "Cocinar en caldo con laurel.",
+      "Cocer 25 minutos.",
+      "Servir caliente."
+    ]
+  }
+]
+
+
+
+

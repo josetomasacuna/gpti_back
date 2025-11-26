@@ -1,0 +1,151 @@
+id,name,category,unit,recommendation
+1,Harina de trigo,Cereal,kg,Si no hay refinada, usar integral para más fibra
+2,Leche entera,Lácteo,L,Elegir semidesnatada para menos grasa
+3,Queso cheddar,Lácteo,kg,Optar por versiones bajas en sal
+4,Yogur natural,Lácteo,L,Si no hay natural, usar sin azúcar añadido
+5,Mantequilla,Lácteo,kg,Elegir sin sal para controlar el sodio
+6,Huevos,Huevo,unidad,Preferir de gallinas camperas
+7,Aceite de oliva,Aceite,L,Seleccionar virgen extra para mejor calidad
+8,Aceite de girasol,Aceite,L,Usar para freír si no hay de oliva
+9,Vinagre de manzana,Condimento,L,Si no hay, sustituir por vinagre blanco
+10,Sal,Especia,kg,Elegir yodada para prevención de deficiencias
+11,Pimienta negra,Especia,kg,Comprar en grano para moler fresca
+12,Canela en polvo,Especia,kg,Si no hay en polvo, usar en rama y moler
+13,Orégano seco,Especia,kg,Optar por orgánico si disponible
+14,Comino molido,Especia,kg,Sustituir por semillas y moler si necesario
+15,Tomate,Verdura,kg,Elegir maduros para mejor sabor
+16,Cebolla,Verdura,kg,Preferir blancas para ensaladas
+17,Ajo,Verdura,unidad,Comprar cabezas frescas no procesadas
+18,Patata,Verdura,kg,Seleccionar firmes sin brotes
+19,Zanahoria,Verdura,kg,Elegir orgánicas para menos pesticidas
+20,Pimiento rojo,Verdura,kg,Si no hay rojo, usar verde como alternativa
+21,Espinaca,Verdura,kg,Optar por fresca en lugar de en bolsa
+22,Brócoli,Verdura,unidad,Elegir con floretes cerrados
+23,Calabacín,Verdura,kg,Sustituir por calabaza si no disponible
+24, Berenjena,Verdura,kg,Preferir pequeñas para menos amargor
+25,Manzana,Fruta,kg,Elegir variedades ácidas para cocinar
+26,Plátano,Fruta,kg,Comprar verdes para que duren más
+27,Naranja,Fruta,kg,Seleccionar pesadas para más jugo
+28,Pera,Fruta,kg,Si no hay peras, usar manzanas
+29,Fresa,Fruta,kg,Elegir locales en temporada
+30,Uva,Fruta,kg,Optar por sin semillas para comodidad
+31,Melón,Fruta,unidad,Preferir maduros con aroma dulce
+32,Sandía,Fruta,unidad,Elegir con golpe sordo al tocar
+33,Limón,Fruta,kg,Sustituir por lima si necesario
+34,Kiwi,Fruta,kg,Comprar firmes y madurar en casa
+35,Lentejas,Legumbre,kg,Elegir pardinas para cocidos rápidos
+36,Garbanzos,Legumbre,kg,Si no hay secos, usar en conserva
+37,Frijoles negros,Legumbre,kg,Optar por orgánicos
+38,Arvejas,Legumbre,kg,Sustituir por guisantes congelados
+39,Habas,Legumbre,kg,Elegir frescas en temporada
+40,Carne de res (entrecot),Carne,kg,Seleccionar con marmoleo para jugosidad
+41,Cerdo (chuletas),Carne,kg,Elegir cortes magros
+42,Pavo (muslo),Carne,kg,Si no hay pavo, usar pollo
+43,Cordero (pierna),Carne,kg,Optar por de pastoreo
+44,Jamón serrano,Carne,kg,Elegir con menos sal
+45,Salchichas,Carne,kg,Sustituir por versiones vegetarianas
+46,Pescado (salmón),Pescado,kg,Preferir salvaje sobre de granja
+47,Atún en lata,Pescado,unidad,Elegir en agua para menos calorías
+48,Camarones,Congelado,kg,Comprar congelados si no frescos
+49,Calamares,Congelado,kg,Optar por limpios para ahorrar tiempo
+50,Pan blanco,Panadería,unidad,Si no hay, usar integral
+51,Pasta seca,Cereal,kg,Elegir de trigo duro
+52,Couscous,Cereal,kg,Sustituir por quinoa
+53,Quinoa,Cereal,kg,Preferir roja para más nutrientes
+54,Avena en hojuelas,Cereal,kg,Elegir instantánea para rapidez
+55,Maíz dulce,Congelado,kg,Si no hay fresco, usar en lata
+56,Champiñones,Verdura,kg,Seleccionar firmes sin manchas
+57,Apio,Verdura,kg,Elegir con hojas verdes
+58,Remolacha,Verdura,kg,Optar por cocidas si prisa
+59,Rábano,Verdura,kg,Sustituir por nabos
+60,Coliflor,Verdura,unidad,Elegir blanca sin manchas
+61,Mango,Fruta,kg,Comprar maduros para consumo inmediato
+62,Papaya,Fruta,unidad,Preferir con piel lisa
+63,Piña,Fruta,unidad,Si no hay fresca, usar en conserva
+64,Granada,Fruta,unidad,Elegir pesadas
+65,Coco,Fruta,unidad,Sustituir por leche de coco
+66,Miel,Endulzante,kg,Elegir cruda para beneficios
+67,Azúcar blanca,Endulzante,kg,Optar por morena para sabor
+68,Chocolate negro,Confitería,kg,Seleccionar con alto cacao
+69,Café molido,Bebida,kg,Elegir arábica
+70,Té verde,Bebida,kg,Si no hay, usar negro
+71,Jengibre,Verdura,kg,Elegir fresco sobre polvo
+72,Cúrcuma,Especia,kg,Comprar en raíz si posible
+73,Laurel,Especia,kg,Optar por hojas secas
+74,Romero,Especia,kg,Sustituir por tomillo
+75,Tomillo,Especia,kg,Elegir fresco en temporada
+76,Albahaca,Especia,kg,Preferir en maceta
+77,Perejil,Especia,kg,Si no hay fresco, usar seco
+78,Cilantro,Especia,kg,Optar por orgánico
+79,Menta,Especia,kg,Sustituir por hierbabuena
+80,Nuez moscada,Especia,kg,Comprar entera para rallar
+81,Almendras,Nuez,kg,Elegir tostadas sin sal
+82,Nueces,Nuez,kg,Preferir con cáscara
+83,Avellanas,Nuez,kg,Si no hay, usar almendras
+84,Cacahuetes,Nuez,kg,Optar por sin sal
+85,Pistachos,Nuez,kg,Sustituir por semillas de girasol
+86,Semillas de chía,Semilla,kg,Elegir orgánicas
+87,Semillas de lino,Semilla,kg,Moler antes de usar si entero
+88,Semillas de sésamo,Semilla,kg,Preferir tostadas
+89,Mostaza,Condimento,kg,Seleccionar Dijon para picante
+90,Ketchup,Condimento,kg,Elegir bajo en azúcar
+91,Mayonesa,Condimento,kg,Optar por ligera
+92,Salsa de soja,Condimento,L,Sustituir por tamari sin gluten
+93,Caldo de verduras,Conserva,L,Si no hay, hacer casero
+94,Tomate frito,Conserva,kg,Elegir sin azúcar añadido
+95,Olivas verdes,Conserva,kg,Preferir sin hueso
+96,Pepinillos,Conserva,kg,Optar por encurtidos caseros
+97,Sardinas en conserva,Pescado,unidad,Seleccionar en aceite de oliva
+98,Mejillones en escabeche,Pescado,unidad,Elegir frescos si posible
+99,Arroz blanco,Cereal,kg,Si no hay, usar basmati
+100,Arroz basmati,Cereal,kg,Preferir integral
+101,Espaguetis,Pasta,kg,Elegir de espelta
+102,Macarrones,Pasta,kg,Sustituir por integrales
+103,Lasaña,Pasta,kg,Optar por frescas
+104,Tortillas de maíz,Panadería,unidad,Elegir sin aditivos
+105,Pan integral,Panadería,unidad,Si no hay, usar blanco
+106,Croissants,Panadería,unidad,Preferir artesanales
+107,Galletas saladas,Confitería,kg,Elegir bajas en sodio
+108,Cereal de desayuno,Cereal,kg,Optar por sin azúcar
+109,Helado de vainilla,Congelado,L,Sustituir por yogur helado
+110,Pizza congelada,Congelado,unidad,Elegir con vegetales
+111,Verduras mixtas congeladas,Congelado,kg,Si no hay frescas, usar estas
+112,Frutas del bosque congeladas,Congelado,kg,Preferir orgánicas
+113,Pollo congelado,Congelado,kg,Descongelar en nevera
+114,Carne picada congelada,Congelado,kg,Elegir magra
+115,Pescado blanco congelado,Pescado,kg,Optar por filetes
+116,Yogur griego,Lácteo,L,Seleccionar natural
+117,Queso fresco,Lácteo,kg,Si no hay, usar ricotta
+118,Queso parmesano,Lácteo,kg,Preferir rallado fresco
+119,Nata para montar,Lácteo,L,Elegir con alto grasa
+120,Leche de almendras,Bebida,L,Sustituir por de avena
+121,Leche de soja,Bebida,L,Optar por fortificada
+122,Jugo de naranja,Bebida,L,Elegir sin pulpa si preferencia
+123,Agua mineral,Bebida,L,Preferir con gas
+124,Vino tinto,Bebida,L,Seleccionar seco
+125,Cerveza,Bebida,L,Elegir artesanal
+126,Bebida isotónica,Bebida,L,Si no hay, usar agua con limón
+127,Harina de maíz,Cereal,kg,Optar por precocida
+128,Levadura en polvo,Panadería,kg,Elegir fresca para pan
+129,Bicarbonato,Condimento,kg,Sustituir por levadura química
+130,Vanilla en vaina,Especia,unidad,Preferir extracto si no disponible
+131,Paprika,Especia,kg,Elegir ahumada para sabor
+132,Azafrán,Especia,kg,Usar con moderación por precio
+133,Clavo,Especia,kg,Comprar entero
+134,Anís estrellado,Especia,kg,Sustituir por semillas de anís
+135,Cardamomo,Especia,kg,Optar por verde
+136,Chile en polvo,Especia,kg,Elegir según picante
+137,Guindilla,Especia,kg,Preferir seca
+138,Cebollino,Especia,kg,Si no hay fresco, usar cebolla
+139,Eneldo,Especia,kg,Sustituir por hinojo
+140,Hinojo,Verdura,unidad,Elegir bulbos grandes
+141,Puerro,Verdura,kg,Optar por limpios
+142,Alcachofa,Verdura,unidad,Preferir frescas
+143,Esparrragos,Verdura,kg,Si no hay verdes, usar blancos
+144,Repollo,Verdura,unidad,Elegir compacto
+145,Col rizada,Verdura,kg,Sustituir por acelgas
+146,Acelga,Verdura,kg,Optar por orgánica
+147,Endivia,Verdura,unidad,Preferir belga
+148,Escarola,Verdura,unidad,Elegir fresca
+149,Rúcula,Verdura,kg,Si no hay, usar espinaca
+150,Canónigos,Verdura,kg,Sustituir por lechuga mixta
