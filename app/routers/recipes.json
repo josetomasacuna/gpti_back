@@ -1147,7 +1147,1843 @@
       "Cocer 25 minutos.",
       "Servir caliente."
     ]
-  }
+  },
+  {
+"name": "Ensalada Vegana de Quinoa",
+"tags": [2, 3, 8, 11, 12, 13, 21, 29, 48, 76, 96],
+"ingredients_text": [
+"100g de quinoa",
+"1 pepino",
+"1 pimiento rojo",
+"10 tomates cherry",
+"1 zanahoria",
+"2 cucharadas de aceite de oliva",
+"Jugo de 1 limón",
+"Sal y pimienta al gusto",
+"Hojas de albahaca"
+],
+"ingredients_ids": [
+{"id": 53, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 15, "quantity": 0.1},
+{"id": 19, "quantity": 0.1},
+{"id": 7, "quantity": 0.02},
+{"id": 33, "quantity": 0.05},
+{"id": 10, "quantity": 0.005},
+{"id": 76, "quantity": 0.01}
+],
+"recipe": [
+"Cocinar la quinoa según instrucciones del paquete.",
+"Picar el pepino, pimiento, tomates y zanahoria.",
+"Mezclar las verduras con la quinoa cocida.",
+"Aliñar con aceite de oliva, jugo de limón, sal y pimienta.",
+"Agregar hojas de albahaca fresca antes de servir."
+]
+},
+{
+"name": "Crema de Brócoli y Espinaca",
+"tags": [2, 3, 8, 14, 15, 16, 26, 48, 76, 96],
+"ingredients_text": [
+"200g de brócoli",
+"100g de espinaca",
+"1 cebolla",
+"2 dientes de ajo",
+"500ml de caldo de verduras",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto",
+"Semillas de sésamo para decorar"
+],
+"ingredients_ids": [
+{"id": 22, "quantity": 0.2},
+{"id": 21, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 93, "quantity": 0.5},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 88, "quantity": 0.01}
+],
+"recipe": [
+"Picar la cebolla y ajo y sofreír en aceite de oliva.",
+"Agregar brócoli y espinaca picada, cocinar 5 minutos.",
+"Añadir caldo de verduras y cocer hasta que el brócoli esté tierno.",
+"Licuar la mezcla hasta obtener una crema homogénea.",
+"Servir caliente decorada con semillas de sésamo."
+]
+},
+{
+"name": "Salteado Vegano de Verduras",
+"tags": [2, 3, 8, 14, 15, 16, 26, 48, 76, 96],
+"ingredients_text": [
+"1 calabacín",
+"1 zanahoria",
+"1 pimiento rojo",
+"100g de champiñones",
+"2 cucharadas de aceite de oliva",
+"2 cucharadas de salsa de soja",
+"1 diente de ajo",
+"Semillas de sésamo al gusto"
+],
+"ingredients_ids": [
+{"id": 23, "quantity": 0.2},
+{"id": 19, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 56, "quantity": 0.1},
+{"id": 7, "quantity": 0.02},
+{"id": 92, "quantity": 0.02},
+{"id": 17, "quantity": 1},
+{"id": 88, "quantity": 0.01}
+],
+"recipe": [
+"Picar todas las verduras en tiras o cubos.",
+"Sofreír el ajo en aceite de oliva.",
+"Agregar las verduras y saltear a fuego medio-alto 8-10 minutos.",
+"Añadir la salsa de soja y mezclar bien.",
+"Servir caliente espolvoreado con semillas de sésamo."
+]
+},
+{
+"name": "Tacos Veganos de Garbanzos",
+"tags": [2, 3, 8, 14, 15, 16, 26, 48, 76, 96],
+"ingredients_text": [
+"6 tortillas de maíz",
+"200g de garbanzos cocidos",
+"1 pimiento rojo",
+"1 cebolla",
+"1 cucharadita de comino molido",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto",
+"Cilantro fresco para servir"
+],
+"ingredients_ids": [
+{"id": 104, "quantity": 6},
+{"id": 36, "quantity": 0.2},
+{"id": 20, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 14, "quantity": 0.005},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 78, "quantity": 0.01}
+],
+"recipe": [
+"Calentar las tortillas.",
+"Sofreír cebolla y pimiento en aceite de oliva.",
+"Agregar garbanzos y comino, cocinar 5 minutos.",
+"Salpimentar al gusto.",
+"Servir en tortillas y decorar con cilantro fresco."
+]
+},
+{
+"name": "Smoothie Verde Energético",
+"tags": [2, 3, 8, 21, 26, 48, 62, 64, 76, 96],
+"ingredients_text": [
+"1 plátano",
+"1 kiwi",
+"50g de espinaca",
+"200ml de leche de almendras",
+"1 cucharadita de miel",
+"Hielo al gusto"
+],
+"ingredients_ids": [
+{"id": 26, "quantity": 0.15},
+{"id": 34, "quantity": 0.1},
+{"id": 21, "quantity": 0.05},
+{"id": 120, "quantity": 0.2},
+{"id": 66, "quantity": 0.01}
+],
+"recipe": [
+"Pelar y cortar el plátano y kiwi.",
+"Colocar todos los ingredientes en la licuadora.",
+"Licuar hasta obtener una mezcla homogénea.",
+"Agregar hielo al gusto y servir frío."
+]
+},
+{
+"name": "Curry Vegano de Lentejas",
+"tags": [2, 3, 6, 8, 14, 15, 16, 26, 48, 76, 96],
+"ingredients_text": [
+"200g de lentejas",
+"1 cebolla",
+"2 dientes de ajo",
+"1 zanahoria",
+"1 pimiento rojo",
+"400ml de leche de coco",
+"2 cucharaditas de curry en polvo",
+"Aceite de oliva",
+"Sal al gusto"
+],
+"ingredients_ids": [
+{"id": 35, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 19, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 119, "quantity": 0.4},
+{"id": 136, "quantity": 0.01},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Picar la cebolla, ajo, zanahoria y pimiento.",
+"Sofreír en aceite de oliva hasta dorar ligeramente.",
+"Añadir lentejas y curry, mezclar bien.",
+"Agregar leche de coco y cocer hasta que las lentejas estén tiernas.",
+"Salpimentar y servir caliente."
+]
+},
+{
+"name": "Buddha Bowl Vegano",
+"tags": [2, 3, 8, 11, 12, 13, 14, 15, 16, 26, 48, 76, 96],
+"ingredients_text": [
+"100g de arroz integral",
+"50g de garbanzos cocidos",
+"50g de brócoli",
+"50g de zanahoria rallada",
+"1/2 aguacate",
+"1 cucharada de semillas de sésamo",
+"2 cucharadas de salsa de soja",
+"Aceite de oliva"
+],
+"ingredients_ids": [
+{"id": 100, "quantity": 0.1},
+{"id": 36, "quantity": 0.05},
+{"id": 22, "quantity": 0.05},
+{"id": 19, "quantity": 0.05},
+{"id": 7, "quantity": 0.5},
+{"id": 88, "quantity": 0.01},
+{"id": 92, "quantity": 0.02},
+{"id": 7, "quantity": 0.02}
+],
+"recipe": [
+"Cocinar el arroz integral según instrucciones.",
+"Cocer al vapor brócoli y zanahoria.",
+"En un bowl, colocar arroz, garbanzos, brócoli, zanahoria y aguacate.",
+"Aliñar con aceite de oliva y salsa de soja.",
+"Espolvorear semillas de sésamo antes de servir."
+]
+},
+{
+"name": "Wrap Vegano de Hummus",
+"tags": [2, 3, 8, 14, 15, 16, 26, 48, 76, 96],
+"ingredients_text": [
+"2 tortillas de trigo integral",
+"50g de hummus",
+"1/2 pepino",
+"1 zanahoria rallada",
+"1 puñado de rúcula",
+"Aceite de oliva al gusto",
+"Pimienta negra al gusto"
+],
+"ingredients_ids": [
+{"id": 105, "quantity": 2},
+{"id": 36, "quantity": 0.05},
+{"id": 16, "quantity": 0.05},
+{"id": 19, "quantity": 0.05},
+{"id": 149, "quantity": 0.05},
+{"id": 7, "quantity": 0.01},
+{"id": 11, "quantity": 0.005}
+],
+"recipe": [
+"Untar hummus sobre las tortillas.",
+"Colocar pepino, zanahoria y rúcula encima.",
+"Enrollar las tortillas y cortar por la mitad.",
+"Añadir aceite de oliva y pimienta al gusto.",
+"Servir fresco."
+]
+},
+{
+"name": "Pasta Integral con Verduras",
+"tags": [2, 3, 8, 14, 15, 16, 26, 48, 76, 96],
+"ingredients_text": [
+"100g de pasta integral",
+"50g de brócoli",
+"50g de champiñones",
+"1 pimiento rojo",
+"2 cucharadas de aceite de oliva",
+"2 dientes de ajo",
+"Sal y pimienta al gusto",
+"Hojas de albahaca"
+],
+"ingredients_ids": [
+{"id": 102, "quantity": 0.1},
+{"id": 22, "quantity": 0.05},
+{"id": 56, "quantity": 0.05},
+{"id": 20, "quantity": 0.05},
+{"id": 7, "quantity": 0.02},
+{"id": 17, "quantity": 2},
+{"id": 10, "quantity": 0.005},
+{"id": 76, "quantity": 0.01}
+],
+"recipe": [
+"Cocer la pasta integral según instrucciones.",
+"Saltear ajo y verduras en aceite de oliva.",
+"Añadir la pasta cocida y mezclar bien.",
+"Salpimentar al gusto.",
+"Servir con hojas de albahaca fresca."
+]
+},
+{
+"name": "Guiso Vegano de Garbanzos y Verduras",
+"tags": [2, 3, 8, 14, 15, 16, 26, 48, 76, 96],
+"ingredients_text": [
+"200g de garbanzos cocidos",
+"1 cebolla",
+"2 dientes de ajo",
+"1 zanahoria",
+"1 calabacín",
+"1 litro de caldo de verduras",
+"2 cucharadas de aceite de oliva",
+"1 cucharadita de pimentón",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 36, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 19, "quantity": 0.1},
+{"id": 23, "quantity": 0.2},
+{"id": 93, "quantity": 1},
+{"id": 7, "quantity": 0.02},
+{"id": 131, "quantity": 0.005},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Picar cebolla, ajo, zanahoria y calabacín.",
+"Sofreír en aceite de oliva hasta dorar ligeramente.",
+"Agregar garbanzos y pimentón, mezclar bien.",
+"Añadir caldo y cocer hasta que las verduras estén tiernas.",
+"Salpimentar y servir caliente."
+]
+},{
+"name": "Ensalada de Salmón y Quinoa",
+"tags": [3, 6, 28, 46, 48, 72, 94],
+"ingredients_text": [
+"150g de quinoa",
+"200g de salmón",
+"50g de espinaca fresca",
+"1 limón",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 53, "quantity": 0.15},
+{"id": 46, "quantity": 0.2},
+{"id": 21, "quantity": 0.05},
+{"id": 33, "quantity": 0.05},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Cocer la quinoa según las instrucciones del paquete.",
+"Cocinar el salmón a la plancha con sal y pimienta.",
+"Mezclar la quinoa con espinaca y jugo de limón.",
+"Añadir el salmón desmenuzado y un chorrito de aceite de oliva.",
+"Servir frío o templado."
+]
+},
+{
+"name": "Tacos de Atún con Verduras",
+"tags": [3, 46, 72, 32, 20, 94],
+"ingredients_text": [
+"4 tortillas de maíz",
+"200g de atún en lata",
+"1 tomate",
+"1/2 cebolla",
+"1/2 pimiento rojo",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 104, "quantity": 4},
+{"id": 47, "quantity": 0.2},
+{"id": 15, "quantity": 0.1},
+{"id": 16, "quantity": 0.05},
+{"id": 20, "quantity": 0.05},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Calentar las tortillas ligeramente.",
+"Escurrir el atún y mezclar con tomate, cebolla y pimiento picados.",
+"Agregar aceite de oliva, sal y pimienta.",
+"Rellenar las tortillas con la mezcla.",
+"Servir inmediatamente."
+]
+},
+{
+"name": "Pasta con Camarones y Espinaca",
+"tags": [3, 46, 48, 72, 101, 21, 94],
+"ingredients_text": [
+"200g de espaguetis",
+"150g de camarones",
+"50g de espinaca fresca",
+"2 dientes de ajo",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 101, "quantity": 0.2},
+{"id": 48, "quantity": 0.15},
+{"id": 21, "quantity": 0.05},
+{"id": 17, "quantity": 2},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Cocer la pasta según las instrucciones.",
+"Saltear los camarones con ajo en aceite de oliva.",
+"Añadir espinaca y cocinar 2 minutos.",
+"Mezclar con la pasta cocida.",
+"Servir caliente con un toque de pimienta."
+]
+},
+{
+"name": "Curry de Pescado y Verduras",
+"tags": [3, 46, 72, 33, 21, 94],
+"ingredients_text": [
+"200g de pescado blanco",
+"1 zanahoria",
+"1 calabacín",
+"1 cebolla",
+"2 dientes de ajo",
+"200ml de leche de coco",
+"1 cucharadita de cúrcuma",
+"Sal al gusto"
+],
+"ingredients_ids": [
+{"id": 115, "quantity": 0.2},
+{"id": 19, "quantity": 0.1},
+{"id": 23, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 121, "quantity": 0.2},
+{"id": 72, "quantity": 0.005},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cortar las verduras en cubos.",
+"Saltear cebolla y ajo en una olla.",
+"Agregar zanahoria, calabacín y pescado.",
+"Añadir leche de coco y cúrcuma.",
+"Cocinar a fuego medio hasta que el pescado esté listo."
+]
+},
+{
+"name": "Sopa Thai de Camarones",
+"tags": [3, 46, 72, 30, 94],
+"ingredients_text": [
+"150g de camarones",
+"1 zanahoria",
+"50g de champiñones",
+"200ml de leche de coco",
+"1 cucharadita de jengibre rallado",
+"1 cucharada de salsa de soja",
+"Cilantro al gusto"
+],
+"ingredients_ids": [
+{"id": 48, "quantity": 0.15},
+{"id": 19, "quantity": 0.1},
+{"id": 56, "quantity": 0.05},
+{"id": 121, "quantity": 0.2},
+{"id": 71, "quantity": 0.005},
+{"id": 92, "quantity": 0.01},
+{"id": 78, "quantity": 0.01}
+],
+"recipe": [
+"Saltear zanahoria y champiñones en una olla.",
+"Agregar leche de coco y jengibre, llevar a hervor.",
+"Incorporar los camarones y cocinar 5 minutos.",
+"Añadir salsa de soja y cilantro picado.",
+"Servir caliente."
+]
+},
+{
+"name": "Ensalada Mediterránea de Atún",
+"tags": [3, 46, 72, 29, 94],
+"ingredients_text": [
+"1 lata de atún",
+"50g de tomate cherry",
+"50g de pepino",
+"30g de aceitunas verdes",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 47, "quantity": 0.2},
+{"id": 15, "quantity": 0.05},
+{"id": 23, "quantity": 0.05},
+{"id": 95, "quantity": 0.03},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Escurrir el atún y colocar en un bol.",
+"Agregar tomate, pepino y aceitunas picados.",
+"Aliñar con aceite de oliva, sal y pimienta.",
+"Mezclar bien y servir frío."
+]
+},
+{
+"name": "Risotto de Calamares y Espinaca",
+"tags": [3, 46, 48, 72, 94],
+"ingredients_text": [
+"200g de arroz",
+"150g de calamares",
+"50g de espinaca",
+"1 cebolla",
+"1 diente de ajo",
+"50ml de aceite de oliva",
+"Sal al gusto"
+],
+"ingredients_ids": [
+{"id": 99, "quantity": 0.2},
+{"id": 49, "quantity": 0.15},
+{"id": 21, "quantity": 0.05},
+{"id": 16, "quantity": 0.05},
+{"id": 17, "quantity": 1},
+{"id": 7, "quantity": 0.05},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cocer el arroz con un poco de sal.",
+"Saltear cebolla y ajo en aceite de oliva.",
+"Añadir calamares y cocinar 5 minutos.",
+"Incorporar espinaca y mezclar con el arroz.",
+"Servir caliente."
+]
+},
+{
+"name": "Pasta al Pesto con Gambas",
+"tags": [3, 46, 72, 101, 94],
+"ingredients_text": [
+"200g de pasta",
+"100g de gambas",
+"30g de albahaca fresca",
+"2 cucharadas de aceite de oliva",
+"10g de piñones",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 101, "quantity": 0.2},
+{"id": 48, "quantity": 0.1},
+{"id": 76, "quantity": 0.03},
+{"id": 7, "quantity": 0.02},
+{"id": 85, "quantity": 0.01},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Cocer la pasta al dente.",
+"Preparar el pesto mezclando albahaca, piñones, aceite, sal y pimienta.",
+"Saltear las gambas en una sartén.",
+"Mezclar la pasta con el pesto y añadir las gambas.",
+"Servir caliente."
+]
+},
+{
+"name": "Ceviche de Pescado Blanco",
+"tags": [3, 46, 72, 94],
+"ingredients_text": [
+"200g de pescado blanco",
+"1 limón",
+"1/2 cebolla morada",
+"1 pimiento rojo",
+"Cilantro fresco",
+"Sal al gusto"
+],
+"ingredients_ids": [
+{"id": 115, "quantity": 0.2},
+{"id": 33, "quantity": 0.05},
+{"id": 16, "quantity": 0.05},
+{"id": 20, "quantity": 0.05},
+{"id": 78, "quantity": 0.01},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cortar el pescado en cubos pequeños.",
+"Agregar jugo de limón, cebolla y pimiento picados.",
+"Mezclar bien y dejar marinar 15 minutos.",
+"Añadir cilantro picado y sal.",
+"Servir frío."
+]
+},
+{
+"name": "Bowl de Quinoa con Atún y Verduras",
+"tags": [3, 46, 72, 28, 94],
+"ingredients_text": [
+"150g de quinoa",
+"1 lata de atún",
+"50g de brócoli",
+"1 zanahoria",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 53, "quantity": 0.15},
+{"id": 47, "quantity": 0.2},
+{"id": 22, "quantity": 0.05},
+{"id": 19, "quantity": 0.05},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Cocer la quinoa y reservar.",
+"Cocer brócoli y zanahoria al vapor.",
+"Mezclar quinoa con verduras y atún escurrido.",
+"Aliñar con aceite de oliva, sal y pimienta.",
+"Servir templado o frío."
+]
+},
+{
+"name": "Ensalada Mediterránea de Quinoa",
+"tags": [1, 2, 3, 8, 11, 12, 13, 26, 29, 48, 77, 94, 96],
+"ingredients_text": [
+"100g de quinoa",
+"1 tomate",
+"1/2 pepino",
+"50g de aceitunas verdes",
+"1 cucharada de aceite de oliva",
+"Jugo de limón",
+"Sal y pimienta al gusto",
+"Hojas de albahaca fresca"
+],
+"ingredients_ids": [
+{"id": 53, "quantity": 0.1},
+{"id": 15, "quantity": 0.1},
+{"id": 57, "quantity": 0.05},
+{"id": 95, "quantity": 0.05},
+{"id": 7, "quantity": 0.01},
+{"id": 33, "quantity": 0.01},
+{"id": 10, "quantity": 0.005},
+{"id": 76, "quantity": 0.01}
+],
+"recipe": [
+"Cocinar la quinoa según instrucciones.",
+"Picar tomate y pepino en cubos.",
+"Mezclar quinoa con vegetales y aceitunas.",
+"Aliñar con aceite de oliva, jugo de limón, sal y pimienta.",
+"Añadir albahaca fresca antes de servir."
+]
+},
+{
+"name": "Tortilla Vegana de Garbanzos",
+"tags": [1, 2, 3, 6, 8, 14, 15, 16, 26, 48, 77, 94, 96],
+"ingredients_text": [
+"200g de garbanzos cocidos",
+"1 cebolla pequeña",
+"1 pimiento rojo",
+"1 cucharada de harina de garbanzo",
+"1 cucharada de aceite de oliva",
+"Sal y pimienta al gusto",
+"Perejil picado"
+],
+"ingredients_ids": [
+{"id": 36, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 1, "quantity": 0.01},
+{"id": 7, "quantity": 0.01},
+{"id": 10, "quantity": 0.005},
+{"id": 77, "quantity": 0.01}
+],
+"recipe": [
+"Procesar los garbanzos hasta obtener puré.",
+"Picar cebolla y pimiento.",
+"Mezclar todos los ingredientes.",
+"Cocinar en sartén con un poco de aceite hasta dorar ambos lados.",
+"Servir con perejil fresco picado."
+]
+},
+{
+"name": "Sopa de Verduras Detox",
+"tags": [1, 4, 5, 6, 8, 14, 16, 26, 48, 76, 78, 84, 94, 96],
+"ingredients_text": [
+"1 zanahoria",
+"1 calabacín",
+"1/2 coliflor",
+"1 litro de caldo de verduras",
+"1 cucharadita de cúrcuma",
+"1 cucharada de aceite de oliva",
+"Sal al gusto",
+"Hojas de perejil"
+],
+"ingredients_ids": [
+{"id": 19, "quantity": 0.1},
+{"id": 23, "quantity": 0.1},
+{"id": 60, "quantity": 0.5},
+{"id": 93, "quantity": 1},
+{"id": 72, "quantity": 0.005},
+{"id": 7, "quantity": 0.01},
+{"id": 10, "quantity": 0.005},
+{"id": 77, "quantity": 0.01}
+],
+"recipe": [
+"Picar todas las verduras en trozos medianos.",
+"Calentar el aceite y sofreír ligeramente las verduras.",
+"Añadir el caldo y la cúrcuma.",
+"Cocer a fuego medio 20 minutos.",
+"Servir caliente con perejil fresco."
+]
+},
+{
+"name": "Buddha Bowl Integral",
+"tags": [1, 2, 3, 5, 6, 8, 11, 12, 26, 48, 77, 94, 96],
+"ingredients_text": [
+"50g de arroz integral",
+"50g de quinoa",
+"1 zanahoria rallada",
+"50g de brócoli",
+"1/2 aguacate",
+"1 cucharada de semillas de sésamo",
+"Aceite de oliva",
+"Sal y limón al gusto"
+],
+"ingredients_ids": [
+{"id": 100, "quantity": 0.05},
+{"id": 53, "quantity": 0.05},
+{"id": 19, "quantity": 0.1},
+{"id": 22, "quantity": 0.05},
+{"id": 26, "quantity": 0.05},
+{"id": 88, "quantity": 0.01},
+{"id": 7, "quantity": 0.01},
+{"id": 33, "quantity": 0.005}
+],
+"recipe": [
+"Cocer el arroz integral y la quinoa por separado.",
+"Cortar y preparar las verduras y el aguacate.",
+"Montar el bowl con arroz, quinoa y verduras.",
+"Añadir aceite, sal, limón y semillas de sésamo.",
+"Mezclar ligeramente antes de servir."
+]
+},
+{
+"name": "Pasta Integral con Pesto de Albahaca",
+"tags": [1, 2, 3, 5, 6, 8, 11, 12, 26, 48, 77, 94, 96],
+"ingredients_text": [
+"100g de pasta integral",
+"50g de hojas de albahaca",
+"1 diente de ajo",
+"2 cucharadas de aceite de oliva",
+"10g de almendras",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 101, "quantity": 0.1},
+{"id": 76, "quantity": 0.05},
+{"id": 17, "quantity": 1},
+{"id": 7, "quantity": 0.02},
+{"id": 81, "quantity": 0.01},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cocer la pasta según las instrucciones del paquete.",
+"Triturar albahaca, ajo, aceite de oliva y almendras para el pesto.",
+"Mezclar la pasta cocida con el pesto.",
+"Ajustar sal y pimienta al gusto.",
+"Servir caliente."
+]
+},
+{
+"name": "Wrap Vegano de Hummus y Verduras",
+"tags": [1, 2, 3, 6, 8, 14, 15, 16, 26, 48, 77, 94, 96],
+"ingredients_text": [
+"1 tortilla de maíz",
+"50g de hummus",
+"1/2 zanahoria rallada",
+"50g de espinaca",
+"1/2 pimiento rojo",
+"Semillas de sésamo",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 104, "quantity": 1},
+{"id": 36, "quantity": 0.05},
+{"id": 19, "quantity": 0.05},
+{"id": 21, "quantity": 0.05},
+{"id": 20, "quantity": 0.05},
+{"id": 88, "quantity": 0.005},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Extender hummus sobre la tortilla.",
+"Añadir las verduras cortadas en tiras.",
+"Espolvorear semillas de sésamo y ajustar sal/pimienta.",
+"Enrollar firmemente la tortilla.",
+"Cortar por la mitad y servir."
+]
+},
+{
+"name": "Guiso de Lentejas y Verduras",
+"tags": [1, 2, 3, 5, 6, 8, 14, 15, 16, 25, 37, 57, 61, 69, 76, 79, 83, 85, 94, 96],
+"ingredients_text": [
+"200g de lentejas",
+"1 zanahoria",
+"1/2 calabacín",
+"1 cebolla",
+"2 dientes de ajo",
+"1 litro de caldo de verduras",
+"1 cucharadita de cúrcuma",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 35, "quantity": 0.2},
+{"id": 19, "quantity": 0.1},
+{"id": 23, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 93, "quantity": 1},
+{"id": 72, "quantity": 0.005},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Remojar las lentejas si es necesario.",
+"Picar todas las verduras en cubos.",
+"Sofreír cebolla y ajo con un poco de aceite.",
+"Añadir lentejas, verduras y caldo, cocer 30 minutos.",
+"Servir caliente."
+]
+},
+{
+"name": "Salteado Asiático de Tofu y Verduras",
+"tags": [1, 2, 3, 6, 8, 14, 15, 16, 26, 48, 77, 94, 96],
+"ingredients_text": [
+"200g de tofu",
+"1 zanahoria",
+"1 pimiento rojo",
+"50g de brócoli",
+"1 cucharada de salsa de soja",
+"1 cucharada de aceite de oliva",
+"Jengibre rallado al gusto",
+"Sal y pimienta"
+],
+"ingredients_ids": [
+{"id": 6, "quantity": 0.2},
+{"id": 19, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 22, "quantity": 0.05},
+{"id": 92, "quantity": 0.01},
+{"id": 7, "quantity": 0.01},
+{"id": 71, "quantity": 0.005},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cortar tofu y verduras en tiras.",
+"Saltear verduras en aceite caliente.",
+"Añadir tofu y saltear 5 minutos.",
+"Incorporar salsa de soja y jengibre.",
+"Servir caliente."
+]
+},
+{
+"name": "Crema de Calabaza y Zanahoria",
+"tags": [1, 4, 5, 6, 8, 14, 16, 26, 48, 76, 78, 84, 94, 96],
+"ingredients_text": [
+"300g de calabaza",
+"2 zanahorias",
+"1 cebolla",
+"1 litro de caldo de verduras",
+"1 cucharadita de cúrcuma",
+"1 cucharada de aceite de oliva",
+"Sal y pimienta",
+"Perejil fresco"
+],
+"ingredients_ids": [
+{"id": 23, "quantity": 0.3},
+{"id": 19, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 93, "quantity": 1},
+{"id": 72, "quantity": 0.005},
+{"id": 7, "quantity": 0.01},
+{"id": 10, "quantity": 0.005},
+{"id": 77, "quantity": 0.01}
+],
+"recipe": [
+"Pelar y cortar calabaza y zanahorias.",
+"Sofreír cebolla y verduras en aceite.",
+"Añadir caldo y cúrcuma, cocer 25 minutos.",
+"Triturar hasta obtener crema.",
+"Servir con perejil fresco."
+]
+},
+{
+"name": "Ensalada de Espinaca y Aguacate",
+"tags": [1, 2, 3, 6, 8, 11, 12, 26, 48, 77, 94, 96],
+"ingredients_text": [
+"50g de espinaca fresca",
+"1/2 aguacate",
+"10g de nueces",
+"1 cucharada de aceite de oliva",
+"Jugo de limón",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 21, "quantity": 0.05},
+{"id": 26, "quantity": 0.05},
+{"id": 82, "quantity": 0.01},
+{"id": 7, "quantity": 0.01},
+{"id": 33, "quantity": 0.005},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Lavar y escurrir la espinaca.",
+"Cortar aguacate en cubos.",
+"Mezclar espinaca, aguacate y nueces.",
+"Aliñar con aceite, limón, sal y pimienta.",
+"Servir inmediatamente."
+]
+},{
+"name": "Pollo al Horno con Hierbas",
+"tags": [6, 17, 53, 61, 64, 95, 97],
+"ingredients_text": [
+"1 kg de pollo (muslos o pechugas)",
+"2 dientes de ajo",
+"1 cucharadita de romero fresco",
+"1 cucharadita de tomillo",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 42, "quantity": 1},
+{"id": 17, "quantity": 2},
+{"id": 74, "quantity": 0.005},
+{"id": 75, "quantity": 0.005},
+{"id": 7, "quantity": 0.03},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Precalentar el horno a 200°C.",
+"Mezclar el pollo con aceite, ajo picado, romero, tomillo, sal y pimienta.",
+"Colocar en una bandeja y hornear 40-45 minutos hasta dorar.",
+"Servir caliente."
+]
+},
+{
+"name": "Ternera Guisada con Verduras",
+"tags": [6, 40, 53, 61, 95, 97],
+"ingredients_text": [
+"800 g de carne de res",
+"2 zanahorias",
+"1 cebolla",
+"1 pimiento rojo",
+"2 dientes de ajo",
+"1 taza de caldo de verduras",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 40, "quantity": 0.8},
+{"id": 19, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 20, "quantity": 0.15},
+{"id": 17, "quantity": 2},
+{"id": 93, "quantity": 0.25},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cortar la carne en cubos y dorar en una olla.",
+"Agregar cebolla, ajo, zanahorias y pimiento picados.",
+"Verter el caldo y sazonar con sal y pimienta.",
+"Cocer a fuego lento 1 hora hasta que la carne esté tierna."
+]
+},
+{
+"name": "Cerdo a la Barbacoa",
+"tags": [6, 41, 53, 61, 95, 97],
+"ingredients_text": [
+"1 kg de chuletas de cerdo",
+"2 cucharadas de ketchup",
+"1 cucharadita de mostaza",
+"1 cucharada de miel",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 41, "quantity": 1},
+{"id": 90, "quantity": 0.01},
+{"id": 89, "quantity": 0.01},
+{"id": 66, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Mezclar ketchup, mostaza y miel para la salsa.",
+"Marinar las chuletas con la salsa durante 30 minutos.",
+"Cocinar en horno a 200°C por 35 minutos, volteando a mitad de cocción.",
+"Servir caliente con guarnición."
+]
+},
+{
+"name": "Salmón al Vapor con Limón",
+"tags": [6, 46, 61, 95, 97],
+"ingredients_text": [
+"4 filetes de salmón",
+"1 limón en rodajas",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto",
+"Eneldo fresco"
+],
+"ingredients_ids": [
+{"id": 46, "quantity": 0.8},
+{"id": 33, "quantity": 0.05},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.003},
+{"id": 139, "quantity": 0.01}
+],
+"recipe": [
+"Colocar los filetes de salmón en una vaporera.",
+"Agregar rodajas de limón y eneldo encima.",
+"Cocinar al vapor 10-12 minutos hasta que esté cocido.",
+"Rociar con aceite de oliva y servir."
+]
+},
+{
+"name": "Estofado Mixto",
+"tags": [6, 40, 41, 42, 53, 61, 95, 97],
+"ingredients_text": [
+"300 g de carne de res",
+"300 g de pollo",
+"200 g de pavo",
+"2 zanahorias",
+"1 cebolla",
+"2 dientes de ajo",
+"1 litro de caldo de verduras",
+"Sal y pimienta"
+],
+"ingredients_ids": [
+{"id": 40, "quantity": 0.3},
+{"id": 42, "quantity": 0.3},
+{"id": 42, "quantity": 0.2},
+{"id": 19, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 93, "quantity": 1},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cortar las carnes en cubos.",
+"Dorar en una olla con aceite de oliva.",
+"Agregar verduras y ajo picados, luego el caldo.",
+"Cocer a fuego lento 1 hora hasta que las carnes estén tiernas.",
+"Sazonar al gusto y servir."
+]
+},
+{
+"name": "Cordero Asado con Hierbas",
+"tags": [6, 43, 53, 61, 95, 97],
+"ingredients_text": [
+"1 kg de pierna de cordero",
+"3 dientes de ajo",
+"1 cucharadita de romero",
+"1 cucharadita de tomillo",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta"
+],
+"ingredients_ids": [
+{"id": 43, "quantity": 1},
+{"id": 17, "quantity": 3},
+{"id": 74, "quantity": 0.005},
+{"id": 75, "quantity": 0.005},
+{"id": 7, "quantity": 0.03},
+{"id": 10, "quantity": 0.005},
+{"id": 11, "quantity": 0.002}
+],
+"recipe": [
+"Precalentar horno a 180°C.",
+"Frotar el cordero con aceite, ajo picado, romero, tomillo, sal y pimienta.",
+"Hornear 1 hora 30 minutos hasta dorar y jugoso.",
+"Servir acompañado de verduras asadas."
+]
+},
+{
+"name": "Pavo al Curry",
+"tags": [6, 42, 53, 61, 95, 97],
+"ingredients_text": [
+"800 g de pavo en cubos",
+"1 cebolla",
+"2 dientes de ajo",
+"1 cucharadita de cúrcuma",
+"1 cucharadita de comino",
+"1 taza de leche de coco",
+"Aceite de oliva",
+"Sal y pimienta"
+],
+"ingredients_ids": [
+{"id": 42, "quantity": 0.8},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 72, "quantity": 0.005},
+{"id": 14, "quantity": 0.005},
+{"id": 65, "quantity": 0.25},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Sofreír cebolla y ajo picados en aceite de oliva.",
+"Agregar pavo y dorar ligeramente.",
+"Añadir cúrcuma, comino y leche de coco.",
+"Cocer 25 minutos hasta que el pavo esté tierno.",
+"Servir caliente con arroz."
+]
+},
+{
+"name": "Tacos de Carne y Verduras",
+"tags": [6, 32, 53, 61, 95, 97],
+"ingredients_text": [
+"500 g de carne de res picada",
+"1 pimiento rojo",
+"1 cebolla",
+"2 dientes de ajo",
+"Tortillas de maíz",
+"Aceite de oliva",
+"Sal y pimienta"
+],
+"ingredients_ids": [
+{"id": 40, "quantity": 0.5},
+{"id": 20, "quantity": 0.15},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 104, "quantity": 4},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Sofreír la carne con ajo, cebolla y pimiento picados.",
+"Cocinar hasta dorar y sazonar con sal y pimienta.",
+"Calentar tortillas y rellenar con la mezcla de carne y verduras.",
+"Servir con salsa al gusto."
+]
+},
+{
+"name": "Hamburguesas Caseras de Res",
+"tags": [6, 40, 53, 61, 95, 97],
+"ingredients_text": [
+"500 g de carne picada de res",
+"1 huevo",
+"1 cebolla picada",
+"Pan de hamburguesa",
+"Sal y pimienta",
+"Aceite de oliva"
+],
+"ingredients_ids": [
+{"id": 40, "quantity": 0.5},
+{"id": 6, "quantity": 1},
+{"id": 16, "quantity": 0.1},
+{"id": 50, "quantity": 4},
+{"id": 10, "quantity": 0.005},
+{"id": 7, "quantity": 0.01}
+],
+"recipe": [
+"Mezclar carne, huevo, cebolla, sal y pimienta.",
+"Formar hamburguesas y dorar en sartén con un poco de aceite.",
+"Servir en pan de hamburguesa con acompañamientos."
+]
+},
+{
+"name": "Brochetas Mixtas de Carne",
+"tags": [6, 40, 41, 53, 61, 95, 97],
+"ingredients_text": [
+"200 g de carne de res",
+"200 g de pollo",
+"200 g de cerdo",
+"Pimiento rojo y verde",
+"Cebolla",
+"Aceite de oliva",
+"Sal y pimienta"
+],
+"ingredients_ids": [
+{"id": 40, "quantity": 0.2},
+{"id": 42, "quantity": 0.2},
+{"id": 41, "quantity": 0.2},
+{"id": 20, "quantity": 0.15},
+{"id": 16, "quantity": 0.1},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cortar las carnes y verduras en cubos.",
+"Ensartar en brochetas alternando tipos de carne y verduras.",
+"Pincelar con aceite, sal y pimienta.",
+"Asar a la parrilla 15-20 minutos hasta dorar.",
+"Servir caliente."
+]
+},
+{
+"name": "Lasagna Vegetariana Gourmet",
+"tags": [1, 3, 6, 17, 31, 55, 77, 94],
+"ingredients_text": [
+"200g de pasta para lasaña",
+"300g de queso ricotta",
+"100g de queso parmesano rallado",
+"1 berenjena",
+"2 calabacines",
+"400g de tomate frito",
+"2 dientes de ajo",
+"Aceite de oliva",
+"Sal y pimienta al gusto",
+"Albahaca fresca"
+],
+"ingredients_ids": [
+{"id": 103, "quantity": 0.2},
+{"id": 117, "quantity": 0.3},
+{"id": 118, "quantity": 0.1},
+{"id": 24, "quantity": 0.2},
+{"id": 23, "quantity": 0.2},
+{"id": 94, "quantity": 0.4},
+{"id": 17, "quantity": 2},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 76, "quantity": 0.01}
+],
+"recipe": [
+"Precalentar el horno a 180°C.",
+"Cortar berenjena y calabacín en rodajas finas y saltear ligeramente.",
+"Mezclar ricotta con ajo picado, sal, pimienta y albahaca.",
+"Montar capas de pasta, ricotta, verduras y tomate frito.",
+"Cubrir con parmesano y hornear 35-40 minutos.",
+"Dejar reposar 5 minutos antes de servir."
+]
+},
+{
+"name": "Pollo al Curry con Coco y Verduras",
+"tags": [1, 6, 17, 33, 36, 46, 64, 95],
+"ingredients_text": [
+"500g de pechuga de pollo",
+"1 cebolla",
+"2 dientes de ajo",
+"1 pimiento rojo",
+"200ml de leche de coco",
+"1 cucharadita de cúrcuma",
+"1 cucharadita de jengibre rallado",
+"Aceite de oliva",
+"Sal y pimienta al gusto",
+"Cilantro fresco"
+],
+"ingredients_ids": [
+{"id": 42, "quantity": 0.5},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 20, "quantity": 0.2},
+{"id": 121, "quantity": 0.2},
+{"id": 72, "quantity": 0.005},
+{"id": 71, "quantity": 0.01},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 78, "quantity": 0.01}
+],
+"recipe": [
+"Cortar el pollo en cubos y sazonar con sal y pimienta.",
+"Saltear cebolla, ajo y pimiento en aceite de oliva.",
+"Añadir pollo y dorar por todos lados.",
+"Agregar cúrcuma, jengibre y leche de coco.",
+"Cocinar a fuego medio 20 minutos hasta que el pollo esté tierno.",
+"Servir con cilantro fresco picado por encima."
+]
+},
+{
+"name": "Salmón al Horno con Limón y Hierbas",
+"tags": [1, 6, 17, 46, 48, 77, 85, 94],
+"ingredients_text": [
+"4 filetes de salmón",
+"2 limones",
+"2 cucharadas de aceite de oliva",
+"2 dientes de ajo",
+"Tomillo fresco",
+"Sal y pimienta al gusto",
+"Rúcula para servir"
+],
+"ingredients_ids": [
+{"id": 46, "quantity": 0.8},
+{"id": 33, "quantity": 0.1},
+{"id": 7, "quantity": 0.02},
+{"id": 17, "quantity": 2},
+{"id": 75, "quantity": 0.01},
+{"id": 10, "quantity": 0.005},
+{"id": 149, "quantity": 0.05}
+],
+"recipe": [
+"Precalentar el horno a 200°C.",
+"Colocar los filetes de salmón en una bandeja, rociar con aceite y jugo de limón.",
+"Agregar ajo picado, sal, pimienta y tomillo.",
+"Hornear 15-20 minutos hasta que el salmón esté cocido.",
+"Servir sobre una cama de rúcula fresca."
+]
+},
+{
+"name": "Risotto de Champiñones y Espárragos",
+"tags": [1, 3, 17, 31, 53, 77, 94],
+"ingredients_text": [
+"300g de arroz arborio",
+"1 cebolla",
+"2 dientes de ajo",
+"200g de champiñones",
+"150g de espárragos",
+"1 litro de caldo de verduras",
+"50g de queso parmesano",
+"Aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 99, "quantity": 0.3},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 56, "quantity": 0.2},
+{"id": 143, "quantity": 0.15},
+{"id": 93, "quantity": 1},
+{"id": 118, "quantity": 0.05},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Saltear cebolla y ajo picado en aceite de oliva hasta dorar.",
+"Añadir champiñones y espárragos, saltear 5 minutos.",
+"Agregar arroz y remover 2 minutos.",
+"Añadir caldo de verduras poco a poco, removiendo constantemente.",
+"Cuando el arroz esté cremoso, incorporar parmesano.",
+"Servir caliente."
+]
+},
+{
+"name": "Tacos de Pescado al Estilo Mexicano",
+"tags": [1, 6, 17, 32, 46, 64, 95],
+"ingredients_text": [
+"8 tortillas de maíz",
+"400g de pescado blanco",
+"1 limón",
+"1 cucharadita de paprika",
+"1 cucharadita de chile en polvo",
+"1 cebolla morada",
+"1 pimiento rojo",
+"Aceite de oliva",
+"Sal y pimienta al gusto",
+"Cilantro fresco"
+],
+"ingredients_ids": [
+{"id": 104, "quantity": 8},
+{"id": 115, "quantity": 0.4},
+{"id": 33, "quantity": 0.1},
+{"id": 131, "quantity": 0.005},
+{"id": 136, "quantity": 0.005},
+{"id": 16, "quantity": 0.1},
+{"id": 20, "quantity": 0.2},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 78, "quantity": 0.01}
+],
+"recipe": [
+"Cortar el pescado en tiras y marinar con limón, paprika, chile, sal y pimienta.",
+"Saltear en aceite de oliva hasta dorar.",
+"Calentar las tortillas.",
+"Montar los tacos con pescado, cebolla, pimiento y cilantro fresco.",
+"Servir inmediatamente."
+]
+},
+{
+"name": "Ensalada Mediterránea con Quinoa",
+"tags": [1, 3, 8, 28, 29, 77, 94],
+"ingredients_text": [
+"150g de quinoa",
+"1 pepino",
+"10 tomates cherry",
+"50g de aceitunas verdes",
+"1 pimiento rojo",
+"50g de queso feta",
+"Aceite de oliva",
+"Jugo de limón",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 53, "quantity": 0.15},
+{"id": 16, "quantity": 0.1},
+{"id": 15, "quantity": 0.1},
+{"id": 95, "quantity": 0.05},
+{"id": 20, "quantity": 0.2},
+{"id": 117, "quantity": 0.05},
+{"id": 7, "quantity": 0.02},
+{"id": 33, "quantity": 0.05},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Cocinar la quinoa según las instrucciones del paquete y dejar enfriar.",
+"Cortar pepino, tomates y pimiento en trozos pequeños.",
+"Mezclar la quinoa con verduras, aceitunas y queso feta desmenuzado.",
+"Aliñar con aceite de oliva, jugo de limón, sal y pimienta.",
+"Servir fría o a temperatura ambiente."
+]
+},
+{
+"name": "Curry de Garbanzos y Verduras",
+"tags": [1, 3, 6, 36, 77, 94],
+"ingredients_text": [
+"400g de garbanzos cocidos",
+"1 cebolla",
+"2 dientes de ajo",
+"1 pimiento rojo",
+"2 zanahorias",
+"200ml de leche de coco",
+"1 cucharadita de cúrcuma",
+"1 cucharadita de comino molido",
+"Aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 36, "quantity": 0.4},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 20, "quantity": 0.2},
+{"id": 19, "quantity": 0.2},
+{"id": 121, "quantity": 0.2},
+{"id": 72, "quantity": 0.005},
+{"id": 14, "quantity": 0.005},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Saltear cebolla, ajo, pimiento y zanahorias en aceite de oliva.",
+"Agregar garbanzos y especias, remover 2 minutos.",
+"Añadir leche de coco y cocinar a fuego medio 15 minutos.",
+"Servir caliente acompañado de arroz o pan integral."
+]
+},
+{
+"name": "Pizza Casera de Vegetales",
+"tags": [1, 3, 17, 31, 77, 94],
+"ingredients_text": [
+"1 base de pizza integral",
+"100g de queso mozzarella",
+"1 berenjena",
+"1 calabacín",
+"1 pimiento rojo",
+"Tomate frito",
+"Orégano seco",
+"Aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 101, "quantity": 0.2},
+{"id": 117, "quantity": 0.1},
+{"id": 24, "quantity": 0.2},
+{"id": 23, "quantity": 0.2},
+{"id": 20, "quantity": 0.2},
+{"id": 94, "quantity": 0.2},
+{"id": 13, "quantity": 0.005},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Precalentar el horno a 220°C.",
+"Cortar verduras en rodajas finas.",
+"Extender tomate frito sobre la base de pizza.",
+"Agregar verduras y cubrir con mozzarella y orégano.",
+"Hornear 12-15 minutos hasta que el queso se derrita.",
+"Servir caliente."
+]
+},
+{
+"name": "Gnocchi al Pesto con Tomate Cherry",
+"tags": [1, 3, 17, 31, 77, 94],
+"ingredients_text": [
+"400g de gnocchi",
+"50g de pesto",
+"10 tomates cherry",
+"Aceite de oliva",
+"Sal y pimienta al gusto",
+"Queso parmesano rallado"
+],
+"ingredients_ids": [
+{"id": 101, "quantity": 0.4},
+{"id": 7, "quantity": 0.05},
+{"id": 15, "quantity": 0.1},
+{"id": 7, "quantity": 0.02},
+{"id": 10, "quantity": 0.005},
+{"id": 118, "quantity": 0.05}
+],
+"recipe": [
+"Cocinar los gnocchi según las instrucciones del paquete.",
+"Saltear ligeramente con aceite de oliva y añadir pesto.",
+"Incorporar tomates cherry cortados a la mitad.",
+"Remover suavemente y servir caliente con parmesano rallado."
+]
+},
+{
+"name": "Paella de Mariscos",
+"tags": [1, 6, 17, 30, 46, 64, 95],
+"ingredients_text": [
+"300g de arroz",
+"200g de camarones",
+"200g de calamares",
+"1 pimiento rojo",
+"1 cebolla",
+"2 dientes de ajo",
+"Aceite de oliva",
+"Azafrán",
+"Sal y pimienta al gusto",
+"Limón para servir"
+],
+"ingredients_ids": [
+{"id": 99, "quantity": 0.3},
+{"id": 48, "quantity": 0.2},
+{"id": 49, "quantity": 0.2},
+{"id": 20, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 7, "quantity": 0.02},
+{"id": 132, "quantity": 0.001},
+{"id": 10, "quantity": 0.005},
+{"id": 33, "quantity": 0.05}
+],
+"recipe": [
+"Saltear cebolla, ajo y pimiento en aceite de oliva.",
+"Añadir arroz y sofreír 2 minutos.",
+"Agregar calamares y camarones, saltear brevemente.",
+"Añadir agua y azafrán, cocinar a fuego medio 20 minutos.",
+"Dejar reposar 5 minutos y servir con limón."
+]
+},
+{
+"name": "Ensalada Mediterránea de Quinoa",
+"tags": [1, 2, 3, 8, 11, 13, 15, 21, 29, 48, 77, 94, 96],
+"ingredients_text": [
+"100g de quinoa",
+"1 tomate",
+"1 pepino",
+"1 pimiento rojo",
+"50g de aceitunas verdes",
+"1 cucharada de aceite de oliva",
+"Jugo de medio limón",
+"Sal y pimienta al gusto",
+"Hojas de albahaca fresca"
+],
+"ingredients_ids": [
+{"id": 53, "quantity": 0.1},
+{"id": 15, "quantity": 0.1},
+{"id": 150, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 95, "quantity": 0.05},
+{"id": 7, "quantity": 0.015},
+{"id": 33, "quantity": 0.05},
+{"id": 10, "quantity": 0.005},
+{"id": 76, "quantity": 0.01}
+],
+"recipe": [
+"Cocer la quinoa según instrucciones del paquete y dejar enfriar.",
+"Picar tomate, pepino, pimiento y aceitunas.",
+"Mezclar la quinoa con las verduras y aliñar con aceite de oliva, jugo de limón, sal y pimienta.",
+"Agregar hojas de albahaca fresca antes de servir."
+]
+},
+{
+"name": "Curry de Garbanzos y Espinaca",
+"tags": [1, 2, 3, 6, 8, 15, 16, 19, 21, 36, 48, 76, 94, 96],
+"ingredients_text": [
+"200g de garbanzos cocidos",
+"100g de espinaca",
+"1 cebolla",
+"2 dientes de ajo",
+"1 cucharadita de comino molido",
+"1 cucharadita de cúrcuma",
+"200ml de leche de coco",
+"Sal y pimienta al gusto",
+"Cilantro fresco"
+],
+"ingredients_ids": [
+{"id": 36, "quantity": 0.2},
+{"id": 21, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 14, "quantity": 0.005},
+{"id": 72, "quantity": 0.005},
+{"id": 120, "quantity": 0.2},
+{"id": 10, "quantity": 0.005},
+{"id": 78, "quantity": 0.01}
+],
+"recipe": [
+"Sofreír cebolla y ajo picados en aceite de oliva.",
+"Añadir garbanzos, espinaca, cúrcuma y comino.",
+"Incorporar la leche de coco y cocinar 15-20 minutos.",
+"Salpimentar al gusto y servir con cilantro fresco picado."
+]
+},
+{
+"name": "Pasta Integral con Verduras al Horno",
+"tags": [1, 2, 3, 4, 5, 8, 15, 16, 31, 48, 55, 77, 94, 96],
+"ingredients_text": [
+"150g de pasta integral",
+"1 calabacín",
+"1 berenjena",
+"1 pimiento rojo",
+"1 cebolla",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto",
+"Orégano seco al gusto",
+"Queso parmesano rallado (opcional)"
+],
+"ingredients_ids": [
+{"id": 102, "quantity": 0.15},
+{"id": 23, "quantity": 0.1},
+{"id": 24, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 7, "quantity": 0.03},
+{"id": 10, "quantity": 0.005},
+{"id": 13, "quantity": 0.005},
+{"id": 118, "quantity": 0.01}
+],
+"recipe": [
+"Cocer la pasta según instrucciones del paquete.",
+"Cortar calabacín, berenjena, pimiento y cebolla en cubos.",
+"Mezclar las verduras con aceite, sal, pimienta y orégano.",
+"Hornear a 200°C durante 20-25 minutos.",
+"Mezclar la pasta cocida con las verduras horneadas y espolvorear queso parmesano si se desea."
+]
+},
+{
+"name": "Tortilla de Verduras",
+"tags": [1, 2, 3, 6, 15, 16, 35, 38, 48, 52, 61, 77, 94, 96],
+"ingredients_text": [
+"3 huevos",
+"1 patata mediana",
+"1 cebolla",
+"1 pimiento rojo",
+"1 calabacín pequeño",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 6, "quantity": 3},
+{"id": 18, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 23, "quantity": 0.1},
+{"id": 7, "quantity": 0.03},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Pelar y cortar patata, cebolla, pimiento y calabacín en cubos pequeños.",
+"Sofreír en aceite de oliva hasta que estén tiernos.",
+"Batir los huevos y mezclarlos con las verduras.",
+"Cocer la mezcla en sartén a fuego medio hasta que cuaje por ambos lados.",
+"Servir caliente."
+]
+},
+{
+"name": "Salteado Asiático de Tofu y Brócoli",
+"tags": [1, 2, 3, 8, 15, 30, 31, 48, 52, 76, 94, 96],
+"ingredients_text": [
+"200g de tofu firme",
+"1 brócoli",
+"1 zanahoria",
+"1 pimiento rojo",
+"2 cucharadas de salsa de soja",
+"1 cucharada de aceite de girasol",
+"1 diente de ajo picado",
+"Jengibre fresco rallado al gusto"
+],
+"ingredients_ids": [
+{"id": 6, "quantity": 0.2},
+{"id": 22, "quantity": 1},
+{"id": 19, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 92, "quantity": 0.03},
+{"id": 8, "quantity": 0.015},
+{"id": 17, "quantity": 1},
+{"id": 71, "quantity": 0.01}
+],
+"recipe": [
+"Cortar el tofu en cubos y dorar ligeramente en sartén con aceite.",
+"Añadir brócoli, zanahoria y pimiento cortados en tiras.",
+"Saltear durante 5-7 minutos.",
+"Agregar salsa de soja, ajo y jengibre, cocinar 2 minutos más.",
+"Servir caliente acompañado de arroz integral si se desea."
+]
+},
+{
+"name": "Crema de Calabaza y Zanahoria",
+"tags": [1, 2, 3, 8, 15, 16, 18, 38, 48, 61, 77, 94, 96],
+"ingredients_text": [
+"500g de calabaza",
+"2 zanahorias",
+"1 cebolla",
+"2 dientes de ajo",
+"1 litro de caldo de verduras",
+"1 cucharada de aceite de oliva",
+"Sal y pimienta al gusto",
+"Nuez moscada al gusto"
+],
+"ingredients_ids": [
+{"id": 23, "quantity": 0.5},
+{"id": 19, "quantity": 0.2},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 93, "quantity": 1},
+{"id": 7, "quantity": 0.015},
+{"id": 10, "quantity": 0.005},
+{"id": 80, "quantity": 0.005}
+],
+"recipe": [
+"Pelar y cortar calabaza y zanahorias en cubos.",
+"Sofreír cebolla y ajo en aceite de oliva hasta transparentes.",
+"Añadir verduras y caldo, cocinar 20-25 minutos.",
+"Triturar hasta obtener una crema suave.",
+"Salpimentar y añadir nuez moscada al gusto antes de servir."
+]
+},
+{
+"name": "Buddha Bowl Vegetariano",
+"tags": [1, 2, 3, 6, 8, 15, 16, 29, 48, 77, 94, 96],
+"ingredients_text": [
+"100g de quinoa cocida",
+"50g de garbanzos cocidos",
+"1 zanahoria rallada",
+"1/2 aguacate",
+"50g de espinaca fresca",
+"1 cucharada de semillas de sésamo",
+"2 cucharadas de aceite de oliva",
+"Sal y limón al gusto"
+],
+"ingredients_ids": [
+{"id": 53, "quantity": 0.1},
+{"id": 36, "quantity": 0.05},
+{"id": 19, "quantity": 0.1},
+{"id": 26, "quantity": 0.05},
+{"id": 21, "quantity": 0.05},
+{"id": 88, "quantity": 0.01},
+{"id": 7, "quantity": 0.03},
+{"id": 33, "quantity": 0.05}
+],
+"recipe": [
+"Cocer la quinoa y los garbanzos si es necesario.",
+"Colocar la quinoa como base en un bol.",
+"Añadir garbanzos, zanahoria rallada, espinaca y aguacate en secciones separadas.",
+"Espolvorear semillas de sésamo y aliñar con aceite de oliva, sal y limón.",
+"Mezclar antes de comer si se desea."
+]
+},
+{
+"name": "Wrap de Hummus y Verduras",
+"tags": [1, 2, 3, 6, 8, 15, 16, 35, 38, 48, 52, 94, 96],
+"ingredients_text": [
+"2 tortillas de maíz",
+"50g de hummus",
+"50g de espinaca fresca",
+"1/2 pimiento rojo",
+"1 zanahoria rallada",
+"1 cucharadita de semillas de chía",
+"Sal y pimienta al gusto"
+],
+"ingredients_ids": [
+{"id": 104, "quantity": 2},
+{"id": 36, "quantity": 0.05},
+{"id": 21, "quantity": 0.05},
+{"id": 20, "quantity": 0.05},
+{"id": 19, "quantity": 0.05},
+{"id": 86, "quantity": 0.005},
+{"id": 10, "quantity": 0.005}
+],
+"recipe": [
+"Untar hummus sobre las tortillas de maíz.",
+"Agregar espinaca, pimiento y zanahoria rallada.",
+"Espolvorear semillas de chía, sal y pimienta.",
+"Enrollar las tortillas formando un wrap.",
+"Servir inmediatamente o envolver para llevar."
+]
+},
+{
+"name": "Tarta de Verduras al Horno",
+"tags": [1, 2, 3, 4, 5, 8, 15, 31, 48, 55, 77, 94, 96],
+"ingredients_text": [
+"200g de harina integral",
+"100g de queso fresco",
+"2 huevos",
+"1 calabacín",
+"1 berenjena",
+"1 pimiento rojo",
+"1 cebolla",
+"2 cucharadas de aceite de oliva",
+"Sal y pimienta al gusto",
+"Orégano seco al gusto"
+],
+"ingredients_ids": [
+{"id": 127, "quantity": 0.2},
+{"id": 117, "quantity": 0.1},
+{"id": 6, "quantity": 2},
+{"id": 23, "quantity": 0.1},
+{"id": 24, "quantity": 0.1},
+{"id": 20, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 7, "quantity": 0.03},
+{"id": 10, "quantity": 0.005},
+{"id": 13, "quantity": 0.005}
+],
+"recipe": [
+"Preparar la masa con harina, huevos y un poco de aceite.",
+"Extender la masa en un molde y precocer 10 minutos.",
+"Picar verduras y saltearlas ligeramente con aceite.",
+"Colocar verduras sobre la masa precocida y añadir queso fresco.",
+"Hornear a 180°C durante 25-30 minutos hasta dorar."
+]
+},
+{
+"name": "Smoothie Verde Energético",
+"tags": [1, 2, 3, 6, 8, 15, 16, 21, 48, 61, 81, 94, 96],
+"ingredients_text": [
+"1 plátano",
+"50g de espinaca fresca",
+"200ml de leche de almendras",
+"1 cucharada de semillas de chía",
+"1 cucharadita de miel",
+"Hielo al gusto"
+],
+"ingredients_ids": [
+{"id": 26, "quantity": 1},
+{"id": 21, "quantity": 0.05},
+{"id": 120, "quantity": 0.2},
+{"id": 86, "quantity": 0.01},
+{"id": 66, "quantity": 0.01}
+],
+"recipe": [
+"Colocar todos los ingredientes en la licuadora.",
+"Procesar hasta obtener una mezcla homogénea.",
+"Servir frío, añadir hielo si se desea más refrescante."
+]
+},
+{
+"name": "Guiso de Lentejas y Verduras",
+"tags": [1, 2, 3, 6, 8, 15, 16, 36, 48, 52, 61, 77, 94, 96],
+"ingredients_text": [
+"200g de lentejas",
+"1 zanahoria",
+"1 calabacín",
+"1 cebolla",
+"2 dientes de ajo",
+"1 litro de caldo de verduras",
+"1 cucharadita de pimentón",
+"Sal y pimienta al gusto",
+"Perejil fresco picado"
+],
+"ingredients_ids": [
+{"id": 35, "quantity": 0.2},
+{"id": 19, "quantity": 0.1},
+{"id": 23, "quantity": 0.1},
+{"id": 16, "quantity": 0.1},
+{"id": 17, "quantity": 2},
+{"id": 93, "quantity": 1},
+{"id": 131, "quantity": 0.005},
+{"id": 10, "quantity": 0.005},
+{"id": 77, "quantity": 0.01}
+],
+"recipe": [
+"Remojar lentejas si es necesario.",
+"Picar cebolla, ajo, zanahoria y calabacín.",
+"Sofreír cebolla y ajo, añadir verduras y lentejas.",
+"Verter el caldo, añadir pimentón, sal y pimienta.",
+"Cocer 30 minutos y servir con perejil fresco picado."
+]
+}
 ]
 
 
