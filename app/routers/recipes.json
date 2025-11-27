@@ -2645,38 +2645,6 @@
 ]
 },
 {
-"name": "Ensalada Mediterránea de Quinoa",
-"tags": [1, 2, 3, 8, 11, 13, 15, 21, 29, 48, 77, 94, 96],
-"ingredients_text": [
-"100g de quinoa",
-"1 tomate",
-"1 pepino",
-"1 pimiento rojo",
-"50g de aceitunas verdes",
-"1 cucharada de aceite de oliva",
-"Jugo de medio limón",
-"Sal y pimienta al gusto",
-"Hojas de albahaca fresca"
-],
-"ingredients_ids": [
-{"id": 53, "quantity": 0.1},
-{"id": 15, "quantity": 0.1},
-{"id": 150, "quantity": 0.1},
-{"id": 20, "quantity": 0.1},
-{"id": 95, "quantity": 0.05},
-{"id": 7, "quantity": 0.015},
-{"id": 33, "quantity": 0.05},
-{"id": 10, "quantity": 0.005},
-{"id": 76, "quantity": 0.01}
-],
-"recipe": [
-"Cocer la quinoa según instrucciones del paquete y dejar enfriar.",
-"Picar tomate, pepino, pimiento y aceitunas.",
-"Mezclar la quinoa con las verduras y aliñar con aceite de oliva, jugo de limón, sal y pimienta.",
-"Agregar hojas de albahaca fresca antes de servir."
-]
-},
-{
 "name": "Curry de Garbanzos y Espinaca",
 "tags": [1, 2, 3, 6, 8, 15, 16, 19, 21, 36, 48, 76, 94, 96],
 "ingredients_text": [
@@ -2802,37 +2770,6 @@
 ]
 },
 {
-"name": "Crema de Calabaza y Zanahoria",
-"tags": [1, 2, 3, 8, 15, 16, 18, 38, 48, 61, 77, 94, 96],
-"ingredients_text": [
-"500g de calabaza",
-"2 zanahorias",
-"1 cebolla",
-"2 dientes de ajo",
-"1 litro de caldo de verduras",
-"1 cucharada de aceite de oliva",
-"Sal y pimienta al gusto",
-"Nuez moscada al gusto"
-],
-"ingredients_ids": [
-{"id": 23, "quantity": 0.5},
-{"id": 19, "quantity": 0.2},
-{"id": 16, "quantity": 0.1},
-{"id": 17, "quantity": 2},
-{"id": 93, "quantity": 1},
-{"id": 7, "quantity": 0.015},
-{"id": 10, "quantity": 0.005},
-{"id": 80, "quantity": 0.005}
-],
-"recipe": [
-"Pelar y cortar calabaza y zanahorias en cubos.",
-"Sofreír cebolla y ajo en aceite de oliva hasta transparentes.",
-"Añadir verduras y caldo, cocinar 20-25 minutos.",
-"Triturar hasta obtener una crema suave.",
-"Salpimentar y añadir nuez moscada al gusto antes de servir."
-]
-},
-{
 "name": "Buddha Bowl Vegetariano",
 "tags": [1, 2, 3, 6, 8, 15, 16, 29, 48, 77, 94, 96],
 "ingredients_text": [
@@ -2925,63 +2862,6 @@
 "Picar verduras y saltearlas ligeramente con aceite.",
 "Colocar verduras sobre la masa precocida y añadir queso fresco.",
 "Hornear a 180°C durante 25-30 minutos hasta dorar."
-]
-},
-{
-"name": "Smoothie Verde Energético",
-"tags": [1, 2, 3, 6, 8, 15, 16, 21, 48, 61, 81, 94, 96],
-"ingredients_text": [
-"1 plátano",
-"50g de espinaca fresca",
-"200ml de leche de almendras",
-"1 cucharada de semillas de chía",
-"1 cucharadita de miel",
-"Hielo al gusto"
-],
-"ingredients_ids": [
-{"id": 26, "quantity": 1},
-{"id": 21, "quantity": 0.05},
-{"id": 120, "quantity": 0.2},
-{"id": 86, "quantity": 0.01},
-{"id": 66, "quantity": 0.01}
-],
-"recipe": [
-"Colocar todos los ingredientes en la licuadora.",
-"Procesar hasta obtener una mezcla homogénea.",
-"Servir frío, añadir hielo si se desea más refrescante."
-]
-},
-{
-"name": "Guiso de Lentejas y Verduras",
-"tags": [1, 2, 3, 6, 8, 15, 16, 36, 48, 52, 61, 77, 94, 96],
-"ingredients_text": [
-"200g de lentejas",
-"1 zanahoria",
-"1 calabacín",
-"1 cebolla",
-"2 dientes de ajo",
-"1 litro de caldo de verduras",
-"1 cucharadita de pimentón",
-"Sal y pimienta al gusto",
-"Perejil fresco picado"
-],
-"ingredients_ids": [
-{"id": 35, "quantity": 0.2},
-{"id": 19, "quantity": 0.1},
-{"id": 23, "quantity": 0.1},
-{"id": 16, "quantity": 0.1},
-{"id": 17, "quantity": 2},
-{"id": 93, "quantity": 1},
-{"id": 131, "quantity": 0.005},
-{"id": 10, "quantity": 0.005},
-{"id": 77, "quantity": 0.01}
-],
-"recipe": [
-"Remojar lentejas si es necesario.",
-"Picar cebolla, ajo, zanahoria y calabacín.",
-"Sofreír cebolla y ajo, añadir verduras y lentejas.",
-"Verter el caldo, añadir pimentón, sal y pimienta.",
-"Cocer 30 minutos y servir con perejil fresco picado."
 ]
 }
 ]
